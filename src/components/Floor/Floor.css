@@ -1,0 +1,4 @@
+.dance-floor {
+  display: flex;
+  flex-direction: column;
+}

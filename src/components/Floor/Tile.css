@@ -1,0 +1,51 @@
+.dance-floor__tile {
+  border: dotted 1px black;
+  margin: 1px;
+  display: flex;
+  height: 75px;
+  width: 75px;
+}
+
+.dance-floor__tile--white {
+  background-color: white;
+}
+
+.dance-floor__tile--black {
+  background-color: black;
+}
+
+.dance-floor__tile--magenta {
+  background-color: magenta;
+}
+
+.dance-floor__tile--red {
+  background-color: red;
+}
+
+.dance-floor__tile--orange {
+  background-color: orange;
+}
+
+.dance-floor__tile--yellow {
+  background-color: yellow;
+}
+
+.dance-floor__tile--green {
+  background-color: green;
+}
+
+.dance-floor__tile--blue {
+  background-color: blue;
+}
+
+.dance-floor__tile--purple {
+  background-color: purple;
+}
+
+.dance-floor__tile--lit {
+  box-shadow: inset 0 0 40px 24px rgba(249, 249, 194, 0.3);
+}
+
+.dance-floor__tile--unlit {
+  box-shadow: inset 0 0 40px 24px rgba(51, 51, 3, 0.3);
+}

@@ -1,0 +1,4 @@
+.control-block__item--speed {
+  display: flex;
+  flex-flow: row wrap;
+}

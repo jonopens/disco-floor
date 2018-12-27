@@ -1,0 +1,14 @@
+.control-block {
+  display: flex;
+  min-width: 200px;
+  border: 2px black solid;
+  padding-bottom: 20px;
+  justify-content: space-evenly;
+  flex-flow: column nowrap;
+  align-items: center;
+}
+
+.control-block__item {
+  display: flex;
+  margin: 0 15px;
+}

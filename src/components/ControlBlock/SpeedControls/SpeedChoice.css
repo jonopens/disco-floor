@@ -1,0 +1,21 @@
+.speed-choice {
+  border: 2px solid black;
+  margin: 8px;
+  width: 38%;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.speed-choice--selected {
+  background-color: black;
+  color: white;
+  border: 2px solid black;
+  height: 40px;
+  width: 38%;
+  margin: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
