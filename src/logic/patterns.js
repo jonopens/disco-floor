@@ -26,30 +26,6 @@ const patterns = {
         }, {
           color: 'white',
           isLit: 'unlit'
-        }
-      ],
-      [
-        {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
         }, {
           color: 'white',
           isLit: 'unlit'
@@ -60,30 +36,6 @@ const patterns = {
           color: 'white',
           isLit: 'unlit'
         }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }
-      ],
-      [
-        {
           color: 'white',
           isLit: 'unlit'
         }, {
@@ -134,30 +86,6 @@ const patterns = {
         }, {
           color: 'white',
           isLit: 'unlit'
-        }
-      ],
-      [
-        {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
         }, {
           color: 'white',
           isLit: 'unlit'
@@ -188,10 +116,136 @@ const patterns = {
         }, {
           color: 'white',
           isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
         }
       ],
       [
         {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
           color: 'white',
           isLit: 'unlit'
         }, {
@@ -464,30 +518,6 @@ const patterns = {
         }, {
           color: 'green',
           isLit: 'unlit'
-        }
-      ],
-      [
-        {
-          color: 'green',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'lit'
-        }, {
-          color: 'green',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'lit'
-        }, {
-          color: 'green',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'lit'
-        }, {
-          color: 'green',
-          isLit: 'unlit'
         }, {
           color: 'red',
           isLit: 'lit'
@@ -495,6 +525,9 @@ const patterns = {
       ],
       [
         {
+          color: 'green',
+          isLit: 'unlit'
+        }, {
           color: 'red',
           isLit: 'lit'
         }, {
@@ -522,60 +555,9 @@ const patterns = {
       ],
       [
         {
-          color: 'green',
-          isLit: 'unlit'
-        }, {
           color: 'red',
           isLit: 'lit'
         }, {
-          color: 'green',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'lit'
-        }, {
-          color: 'green',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'lit'
-        }, {
-          color: 'green',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'lit'
-        }
-      ],
-      [
-        {
-          color: 'red',
-          isLit: 'lit'
-        }, {
-          color: 'green',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'lit'
-        }, {
-          color: 'green',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'lit'
-        }, {
-          color: 'green',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'lit'
-        }, {
-          color: 'green',
-          isLit: 'unlit'
-        }
-      ],
-      [
-        {
           color: 'green',
           isLit: 'unlit'
         }, {
@@ -603,6 +585,9 @@ const patterns = {
       ],
       [
         {
+          color: 'green',
+          isLit: 'unlit'
+        }, {
           color: 'red',
           isLit: 'lit'
         }, {
@@ -630,6 +615,9 @@ const patterns = {
       ],
       [
         {
+          color: 'red',
+          isLit: 'lit'
+        }, {
           color: 'green',
           isLit: 'unlit'
         }, {
@@ -655,6 +643,126 @@ const patterns = {
           isLit: 'lit'
         }
       ],
+      [
+        {
+          color: 'green',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'lit'
+        }, {
+          color: 'green',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'lit'
+        }, {
+          color: 'green',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'lit'
+        }, {
+          color: 'green',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'lit'
+        }, {
+          color: 'green',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'red',
+          isLit: 'lit'
+        }, {
+          color: 'green',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'lit'
+        }, {
+          color: 'green',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'lit'
+        }, {
+          color: 'green',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'lit'
+        }, {
+          color: 'green',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'lit'
+        }
+      ],
+      [
+        {
+          color: 'green',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'lit'
+        }, {
+          color: 'green',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'lit'
+        }, {
+          color: 'green',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'lit'
+        }, {
+          color: 'green',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'lit'
+        }, {
+          color: 'green',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'red',
+          isLit: 'lit'
+        }, {
+          color: 'green',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'lit'
+        }, {
+          color: 'green',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'lit'
+        }, {
+          color: 'green',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'lit'
+        }, {
+          color: 'green',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'lit'
+        }
+      ]
     ],
     1: [
       [
@@ -682,30 +790,6 @@ const patterns = {
         }, {
           color: 'red',
           isLit: 'unlit'
-        }
-      ],
-      [
-        {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'green',
-          isLit: 'lit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'green',
-          isLit: 'lit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'green',
-          isLit: 'lit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
         }, {
           color: 'green',
           isLit: 'lit'
@@ -713,6 +797,9 @@ const patterns = {
       ],
       [
         {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
           color: 'green',
           isLit: 'lit'
         }, {
@@ -740,60 +827,9 @@ const patterns = {
       ],
       [
         {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
           color: 'green',
           isLit: 'lit'
         }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'green',
-          isLit: 'lit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'green',
-          isLit: 'lit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'green',
-          isLit: 'lit'
-        }
-      ],
-      [
-        {
-          color: 'green',
-          isLit: 'lit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'green',
-          isLit: 'lit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'green',
-          isLit: 'lit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'green',
-          isLit: 'lit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }
-      ],
-      [
-        {
           color: 'red',
           isLit: 'unlit'
         }, {
@@ -821,6 +857,9 @@ const patterns = {
       ],
       [
         {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
           color: 'green',
           isLit: 'lit'
         }, {
@@ -848,6 +887,9 @@ const patterns = {
       ],
       [
         {
+          color: 'green',
+          isLit: 'lit'
+        }, {
           color: 'red',
           isLit: 'unlit'
         }, {
@@ -873,6 +915,126 @@ const patterns = {
           isLit: 'lit'
         }
       ],
+      [
+        {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'green',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'green',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'green',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'green',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'green',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'green',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'green',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'green',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'green',
+          isLit: 'lit'
+        }
+      ],
+      [
+        {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'green',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'green',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'green',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'green',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'green',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'green',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'green',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'green',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'green',
+          isLit: 'lit'
+        }
+      ]
     ],
   },
   'line-up': {
@@ -894,30 +1056,6 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'purple',
-          isLit: 'lit'
-        }
-      ],
-      [
-        {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
           color: 'yellow',
           isLit: 'unlit'
         }, {
@@ -936,30 +1074,6 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'purple',
-          isLit: 'lit'
-        }
-      ],
-      [
-        {
           color: 'yellow',
           isLit: 'unlit'
         }, {
@@ -1002,30 +1116,6 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'purple',
-          isLit: 'lit'
-        }
-      ],
-      [
-        {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
           color: 'yellow',
           isLit: 'unlit'
         }, {
@@ -1056,6 +1146,9 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
           color: 'orange',
           isLit: 'unlit'
         }, {
@@ -1068,6 +1161,129 @@ const patterns = {
       ],
       [
         {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
           color: 'yellow',
           isLit: 'unlit'
         }, {
@@ -1109,30 +1325,6 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'purple',
-          isLit: 'lit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }
-      ],
-      [
-        {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
           color: 'yellow',
           isLit: 'unlit'
         }, {
@@ -1154,30 +1346,6 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'purple',
-          isLit: 'lit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }
-      ],
-      [
-        {
           color: 'yellow',
           isLit: 'unlit'
         }, {
@@ -1217,30 +1385,6 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'purple',
-          isLit: 'lit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }
-      ],
-      [
-        {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
           color: 'yellow',
           isLit: 'unlit'
         }, {
@@ -1271,6 +1415,9 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
           color: 'orange',
           isLit: 'unlit'
         }, {
@@ -1286,6 +1433,129 @@ const patterns = {
       ],
       [
         {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
           color: 'yellow',
           isLit: 'unlit'
         }, {
@@ -1324,30 +1594,6 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'purple',
-          isLit: 'lit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }
-      ],
-      [
-        {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
           color: 'yellow',
           isLit: 'unlit'
         }, {
@@ -1372,30 +1618,6 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'purple',
-          isLit: 'lit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }
-      ],
-      [
-        {
           color: 'yellow',
           isLit: 'unlit'
         }, {
@@ -1432,30 +1654,6 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'purple',
-          isLit: 'lit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }
-      ],
-      [
-        {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
           color: 'yellow',
           isLit: 'unlit'
         }, {
@@ -1486,6 +1684,9 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
           color: 'orange',
           isLit: 'unlit'
         }, {
@@ -1504,6 +1705,129 @@ const patterns = {
       ],
       [
         {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
           color: 'yellow',
           isLit: 'unlit'
         }, {
@@ -1539,30 +1863,6 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'purple',
-          isLit: 'lit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        },
-      ],
-      [
-        {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
           color: 'yellow',
           isLit: 'unlit'
         }, {
@@ -1590,30 +1890,6 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'purple',
-          isLit: 'lit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        },
-      ],
-      [
-        {
           color: 'yellow',
           isLit: 'unlit'
         }, {
@@ -1647,30 +1923,6 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'purple',
-          isLit: 'lit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        },
-      ],
-      [
-        {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
           color: 'yellow',
           isLit: 'unlit'
         }, {
@@ -1701,6 +1953,9 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
           color: 'orange',
           isLit: 'unlit'
         }, {
@@ -1722,6 +1977,99 @@ const patterns = {
       ],
       [
         {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        },
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        },
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        },
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
           color: 'yellow',
           isLit: 'unlit'
         }, {
@@ -1746,6 +2094,36 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, 
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        },
       ]
     ],
     4: [
@@ -1754,30 +2132,6 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'purple',
-          isLit: 'lit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        },
-      ],
-      [
-        {
           color: 'yellow',
           isLit: 'unlit'
         }, {
@@ -1808,30 +2162,6 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'purple',
-          isLit: 'lit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        },
-      ],
-      [
-        {
           color: 'yellow',
           isLit: 'unlit'
         }, {
@@ -1862,30 +2192,6 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'purple',
-          isLit: 'lit'
-        }, {
-          color: 'red',
-          isLit: 'unlit'
-        }, {
-          color: 'orange',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        }, {
-          color: 'yellow',
-          isLit: 'unlit'
-        },
-      ],
-      [
-        {
           color: 'yellow',
           isLit: 'unlit'
         }, {
@@ -1916,6 +2222,9 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
           color: 'orange',
           isLit: 'unlit'
         }, {
@@ -1940,6 +2249,129 @@ const patterns = {
       ],
       [
         {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        },
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        },
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        },
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        },
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
           color: 'yellow',
           isLit: 'unlit'
         }, {
@@ -1969,6 +2401,9 @@ const patterns = {
     5: [
       [
         {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
           color: 'orange',
           isLit: 'unlit'
         }, {
@@ -1996,6 +2431,9 @@ const patterns = {
       ],
       [
         {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
           color: 'orange',
           isLit: 'unlit'
         }, {
@@ -2023,6 +2461,9 @@ const patterns = {
       ],
       [
         {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
           color: 'orange',
           isLit: 'unlit'
         }, {
@@ -2050,6 +2491,9 @@ const patterns = {
       ],
       [
         {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
           color: 'orange',
           isLit: 'unlit'
         }, {
@@ -2077,6 +2521,9 @@ const patterns = {
       ],
       [
         {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
           color: 'orange',
           isLit: 'unlit'
         }, {
@@ -2104,6 +2551,9 @@ const patterns = {
       ],
       [
         {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
           color: 'orange',
           isLit: 'unlit'
         }, {
@@ -2131,6 +2581,9 @@ const patterns = {
       ],
       [
         {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
           color: 'orange',
           isLit: 'unlit'
         }, {
@@ -2158,6 +2611,9 @@ const patterns = {
       ],
       [
         {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
           color: 'orange',
           isLit: 'unlit'
         }, {
@@ -2182,11 +2638,44 @@ const patterns = {
           color: 'yellow',
           isLit: 'unlit'
         }, 
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        },
       ]
     ],
     6: [
       [
         {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
           color: 'red',
           isLit: 'unlit'
         }, {
@@ -2214,6 +2703,9 @@ const patterns = {
       ],
       [
         {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
           color: 'red',
           isLit: 'unlit'
         }, {
@@ -2241,6 +2733,9 @@ const patterns = {
       ],
       [
         {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
           color: 'red',
           isLit: 'unlit'
         }, {
@@ -2268,6 +2763,9 @@ const patterns = {
       ],
       [
         {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
           color: 'red',
           isLit: 'unlit'
         }, {
@@ -2295,6 +2793,9 @@ const patterns = {
       ],
       [
         {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
           color: 'red',
           isLit: 'unlit'
         }, {
@@ -2322,6 +2823,9 @@ const patterns = {
       ],
       [
         {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
           color: 'red',
           isLit: 'unlit'
         }, {
@@ -2349,6 +2853,9 @@ const patterns = {
       ],
       [
         {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
           color: 'red',
           isLit: 'unlit'
         }, {
@@ -2376,6 +2883,39 @@ const patterns = {
       ],
       [
         {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        },
+      ],
+      [
+        {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
           color: 'red',
           isLit: 'unlit'
         }, {
@@ -2405,6 +2945,9 @@ const patterns = {
     7: [
       [
         {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
           color: 'purple',
           isLit: 'lit'
         }, {
@@ -2432,6 +2975,9 @@ const patterns = {
       ],
       [
         {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
           color: 'purple',
           isLit: 'lit'
         }, {
@@ -2459,6 +3005,9 @@ const patterns = {
       ],
       [
         {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
           color: 'purple',
           isLit: 'lit'
         }, {
@@ -2486,6 +3035,9 @@ const patterns = {
       ],
       [
         {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
           color: 'purple',
           isLit: 'lit'
         }, {
@@ -2513,6 +3065,9 @@ const patterns = {
       ],
       [
         {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
           color: 'purple',
           isLit: 'lit'
         }, {
@@ -2540,6 +3095,9 @@ const patterns = {
       ],
       [
         {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
           color: 'purple',
           isLit: 'lit'
         }, {
@@ -2567,6 +3125,9 @@ const patterns = {
       ],
       [
         {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
           color: 'purple',
           isLit: 'lit'
         }, {
@@ -2594,6 +3155,39 @@ const patterns = {
       ],
       [
         {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        },
+      ],
+      [
+        {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
           color: 'purple',
           isLit: 'lit'
         }, {
@@ -2620,6 +3214,278 @@ const patterns = {
         },
       ]
     ],
+    8: [
+      [
+        {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'purple',
+          isLit: 'lit'
+        }, {
+          color: 'red',
+          isLit: 'unlit'
+        }, {
+          color: 'orange',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }, {
+          color: 'yellow',
+          isLit: 'unlit'
+        }
+      ]
+    ]
   },
 };
 
