@@ -1,7 +1,7 @@
 import React from 'react';
 import { observer, inject } from 'mobx-react';
 import TileRow from './TileRow';
-import patterns from '../../logic/patterns';
+import patterns from '../../data/patterns';
 import './Floor.css'
 
 @inject('AppStore', 'FloorStore')

@@ -298,6 +298,9 @@ const patterns = {
         }, {
           color: 'white',
           isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
         }
       ],
       [
@@ -313,38 +316,14 @@ const patterns = {
         }, {
           color: 'white',
           isLit: 'unlit'
+        }, , {
+          color: 'white',
+          isLit: 'unlit'
         }, {
           color: 'white',
           isLit: 'unlit'
         }, {
           color: 'black',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }
-      ],
-      [
-        {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
           isLit: 'unlit'
         }, {
           color: 'white',
@@ -379,6 +358,69 @@ const patterns = {
         }, {
           color: 'white',
           isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
         }
       ],
       [
@@ -394,31 +436,7 @@ const patterns = {
         }, {
           color: 'white',
           isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'black',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }
-      ],
-      [
-        {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'black',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
+        }, , {
           color: 'white',
           isLit: 'unlit'
         }, {
@@ -440,7 +458,40 @@ const patterns = {
           color: 'white',
           isLit: 'unlit'
         }, {
+          color: 'black',
+          isLit: 'unlit'
+        }, {
           color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, , {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'black',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }
+      ],
+      [
+        {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
+          color: 'black',
           isLit: 'unlit'
         }, {
           color: 'black',
@@ -464,6 +515,9 @@ const patterns = {
       ],
       [
         {
+          color: 'white',
+          isLit: 'unlit'
+        }, {
           color: 'white',
           isLit: 'unlit'
         }, {

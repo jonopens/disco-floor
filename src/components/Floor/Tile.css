@@ -2,8 +2,8 @@
   border: solid 1px black;
   margin: 1px;
   display: flex;
-  height: 70px;
-  width: 70px;
+  height: 65px;
+  width: 65px;
 }
 
 .dance-floor__tile--white {

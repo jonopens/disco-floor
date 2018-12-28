@@ -5,6 +5,7 @@ export default class AppStore {
   @observable isLastFrame = false;
   @observable isPulsingOn = false;
   @observable isPlaying = false;
+  @observable showBuilder = false;
 
   constructor(rootStore) {
     this.rootStore = rootStore;
@@ -24,5 +25,9 @@ export default class AppStore {
 
   @action setIsPlaying(bool) {
     this.isPlaying = bool;
+  }
+
+  @action setShowBuilder(bool) {
+    this.showBuilder = bool;
   }
 }

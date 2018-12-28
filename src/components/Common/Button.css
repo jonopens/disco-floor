@@ -1,16 +1,16 @@
-.play-button {
+.button__play-button {
   height: 40px;
   width: 170px;
   font-size: 24px;
   border-radius: 5px;
 }
 
-.play-button--stopped {
+.button__play-button--stopped {
   color: black;
   background-color: white;
 }
 
-.play-button--playing {
+.button__play-button--playing {
   color: white;
   background-color: black;
 }

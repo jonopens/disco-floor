@@ -1,5 +1,5 @@
 import { observable, action } from 'mobx';
-import patterns from '../logic/patterns';
+import patterns from '../data/patterns';
 
 export default class FloorStore {
   @observable selectedPattern = 'default';
