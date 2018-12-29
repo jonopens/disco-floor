@@ -1,4 +1,4 @@
-import { observable, action } from 'mobx';
+import { observable, action, computed } from 'mobx';
 
 export default class AppStore {
   @observable isColorInverted = false;
@@ -29,5 +29,12 @@ export default class AppStore {
 
   @action setShowBuilder(bool) {
     this.showBuilder = bool;
+  }
+
+  @computed get flipTileLighting() {
+    if (this.isPulsingOn) {
+      return this.rootStore.FloorStore.currentFrame % 2 === 0 ? true : false;
+    }
+    return false;
   }
 }

@@ -1,8 +1,9 @@
 .control-block {
   display: flex;
-  min-width: 200px;
-  border: 2px black solid;
+  margin: 0 20px;
   padding-bottom: 20px;
+  min-width: 200px;
+  border: solid 2px black;
   justify-content: space-evenly;
   flex-flow: column nowrap;
   align-items: center;

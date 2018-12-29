@@ -1,4 +1,4 @@
-import { observable, action } from 'mobx';
+import { observable, action, computed } from 'mobx';
 import patterns from '../data/patterns';
 
 export default class FloorStore {
@@ -19,7 +19,7 @@ export default class FloorStore {
       } else {
         this.setCurrentFrame(this.currentFrame + 1);
       }
-    }, 1000 / this.selectedSpeed);
+    }, this.frameLength);
   }
 
   @action setSelectedPattern(pattern) {
@@ -39,5 +39,9 @@ export default class FloorStore {
       clearInterval(this.frameInterval);
     }
     this.frameInterval = this.returnInterval();
+  }
+
+  @computed get frameLength() {
+    return 1000 / this.selectedSpeed;
   }
 }

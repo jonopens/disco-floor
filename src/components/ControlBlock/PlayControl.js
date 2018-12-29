@@ -8,8 +8,8 @@ export default class PlayControl extends Component {
   togglePlayerState = (event) => {
     event.preventDefault();
     const { AppStore, FloorStore } = this.props;
+    
     AppStore.setIsPlaying(!AppStore.isPlaying);
-
     if (AppStore.isPlaying) {
       FloorStore.resetFrameInterval();
     } else {
@@ -22,6 +22,7 @@ export default class PlayControl extends Component {
     const playerClassName = this.props.AppStore.isPlaying
       ? 'button__play-button button__play-button--stopped'
       : 'button__play-button button__play-button--playing';
+      
     return(
       <div className="control-block__item  control-block__item--play">
         <Button

@@ -5,7 +5,13 @@ import './TileRow.css';
 class TileRow extends React.Component {
   render() {
     const tiles = this.props.tiles.map((tile, idx) => {
-      return <Tile color={tile.color} isLit={tile.isLit} key={`coord-${this.props.rowNum}-${idx}`} />
+      return (
+        <Tile
+          color={tile.color}
+          isLit={tile.isLit}
+          key={`coord-${this.props.rowNum}-${idx}`}
+        />
+      );
     });
     
     return(

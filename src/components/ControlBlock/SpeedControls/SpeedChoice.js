@@ -17,6 +17,7 @@ export default class SpeedChoice extends Component {
     const choiceClassNames = +this.props.speed === this.props.FloorStore.selectedSpeed
       ? "speed-choice speed-choice--selected"
       : "speed-choice";
+
     return(
       <span onClick={this.changeSpeedSelection} className={choiceClassNames}>{`${this.props.speed}x`}</span>
     )
