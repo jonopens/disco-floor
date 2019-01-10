@@ -1,9 +1,9 @@
-import React from 'react';
-import './Container.css';
-import Floor from './Floor/Floor';
+import React, { Component } from 'react';
 import ControlBlock from './ControlBlock/ControlBlock';
+import Floor from './Floor/Floor';
+import './Container.css';
 
-class Container extends React.Component {
+class Container extends Component {
   render() {
     return(
       <div className="container">

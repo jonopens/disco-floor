@@ -1,8 +1,8 @@
-import React from 'react';
+import React, { Component } from 'react';
 import Tile from './Tile';
 import './TileRow.css';
 
-class TileRow extends React.Component {
+class TileRow extends Component {
   render() {
     const tiles = this.props.tiles.map((tile, idx) => {
       return (

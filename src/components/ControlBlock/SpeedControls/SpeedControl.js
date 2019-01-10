@@ -1,8 +1,8 @@
-import React from 'react';
+import React, { Component } from 'react';
 import SpeedChoice from './SpeedChoice';
 import './SpeedControl.css';
 
-class SpeedControl extends React.Component {
+class SpeedControl extends Component {
 
   render() {
     return(

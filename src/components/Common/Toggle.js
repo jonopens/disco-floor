@@ -1,19 +1,27 @@
 import React, { Component } from 'react';
+import { observer, inject } from 'mobx-react';
 import './Toggle.css';
 
-const Toggle = (props) => {
-  return (
-    <div className="toggle">
-      <input 
-        type="checkbox"
-        id={`switch-${props.name}`}
-        className="toggle__checkbox"
-        checked={props.toggleState}
-        onChange={props.handleChange} 
-      />
-      <label className="toggle__label" htmlFor={`switch-${props.name}`} />
-    </div>
-  );
+@inject('AppStore')
+@observer
+class Toggle extends Component {
+
+
+  render() {
+    return (
+      <div className="toggle">
+        <p className="toggle__title">{this.props.title}</p>
+        <input 
+          type="checkbox"
+          id={`switch-${this.props.name}`}
+          className="toggle__checkbox"
+          checked={this.props.toggled}
+          onChange={this.props.toggleAction} 
+        />
+        <label className="toggle__label" htmlFor={`switch-${this.props.name}`} />
+      </div>
+    );
+  }
 }
 
 export default Toggle;

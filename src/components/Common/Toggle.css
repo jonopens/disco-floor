@@ -1,7 +1,18 @@
+/*   credit goes to Marcus Burnette for toggle CSS    */
+/* taken from https://codepen.io/mburnette/pen/LxNxNg */
+/*      <3<3<3<3<3 THANK YOU SO MUCH <3<3<3<3<3       */
+
 .toggle {
-  display: flex;
+	display: flex;
+	flex-direction: column;
 	justify-content: center;
   align-items: center;
+}
+
+.toggle__title {
+	margin-bottom: 10px;
+	font-weight: bold;
+	font-size: 14px;
 }
 
 .toggle__checkbox {

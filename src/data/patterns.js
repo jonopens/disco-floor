@@ -4,271 +4,271 @@ const patterns = {
       [
         {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }
       ]
     ],
@@ -276,271 +276,271 @@ const patterns = {
       [
         {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'black',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, , {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'black',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }
-      ],
-      [
-        {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }
-      ],
-      [
-        {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }
-      ],
-      [
-        {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }, {
-          color: 'white',
-          isLit: 'unlit'
-        }
-      ],
-      [
-        {
-          color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'black',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'black',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
+        }, {
+          color: 'white',
+          isLit: false
         }, , {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'black',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'black',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, , {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'black',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'black',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'black',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'black',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'black',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'black',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'white',
-          isLit: 'unlit'
+          isLit: false
         }
       ]
     ]
@@ -550,271 +550,271 @@ const patterns = {
       [
         {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }
       ],
       [
         {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }
       ],
       [
         {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }
       ],
       [
         {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }
       ],
       [
         {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'green',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'lit'
+          isLit: true
         }
       ]
     ],
@@ -822,271 +822,271 @@ const patterns = {
       [
         {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }
       ],
       [
         {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }
       ],
       [
         {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }
       ],
       [
         {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }
       ],
       [
         {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'green',
-          isLit: 'lit'
+          isLit: true
         }
       ]
     ],
@@ -1096,271 +1096,271 @@ const patterns = {
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }
       ]
     ],
@@ -1368,271 +1368,271 @@ const patterns = {
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }
       ]
     ],
@@ -1640,271 +1640,271 @@ const patterns = {
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }
       ]
     ],
@@ -1912,271 +1912,271 @@ const patterns = {
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, 
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ]
     ],
@@ -2184,271 +2184,271 @@ const patterns = {
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ]
     ],
@@ -2456,271 +2456,271 @@ const patterns = {
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, 
       ],
       [
         {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ]
     ],
@@ -2728,271 +2728,271 @@ const patterns = {
       [
         {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ]
     ],
@@ -3000,271 +3000,271 @@ const patterns = {
       [
         {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ],
       [
         {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         },
       ]
     ],
@@ -3272,271 +3272,271 @@ const patterns = {
       [
         {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }
       ],
       [
         {
           color: 'purple',
-          isLit: 'lit'
+          isLit: true
         }, {
           color: 'red',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'orange',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }, {
           color: 'yellow',
-          isLit: 'unlit'
+          isLit: false
         }
       ]
     ]

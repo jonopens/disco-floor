@@ -1,10 +1,11 @@
-import React from 'react';
+import React, { Component } from 'react';
 import { observer, inject } from 'mobx-react';
 import Toggle from '../Common/Toggle';
 
 @inject('AppStore', 'FloorStore')
 @observer
-class PulseControl extends React.Component {
+class PulseControl extends Component {
+
   togglePulsing = () => {
     this.props.AppStore.setIsPulsingOn(!this.props.AppStore.isPulsingOn);
   }
@@ -14,8 +15,9 @@ class PulseControl extends React.Component {
       <div className="control-block__item  control-block__item--pulse">
         <Toggle
           name="pulse"
-          handleChange={this.togglePulsing}
-          toggleState={this.props.AppStore.isPulsingOn} 
+          title="Pulse Control"
+          toggleAction={this.togglePulsing}
+          toggled={this.props.AppStore.isPulingOn}
         />
       </div>
     )
