@@ -3541,6 +3541,1912 @@ const patterns = {
       ]
     ]
   },
+  'x-in': {
+    0: [
+      [
+        {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }
+      ]
+    ],
+    1: [
+      [
+        {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }
+      ]
+    ],
+    2: [
+      [
+        {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }
+      ]
+    ],
+    3: [
+      [
+        {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'yellow',
+          isLit: false
+        }
+      ],
+    ],
+    4: [
+      [
+        {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'orange',
+          isLit: false
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'orange',
+          isLit: false
+        }
+      ]
+    ],
+    5: [
+      [
+        {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'red',
+          isLit: false
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'red',
+          isLit: false
+        }
+      ],
+    ],
+    6: [
+      [
+        {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }
+      ],
+      [
+        {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }
+      ],
+      [
+        {
+          color: 'magenta',
+          isLit: true
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'yellow',
+          isLit: false
+        }, {
+          color: 'green',
+          isLit: true
+        }, {
+          color: 'blue',
+          isLit: false
+        }, {
+          color: 'purple',
+          isLit: true
+        }, {
+          color: 'magenta',
+          isLit: true
+        }
+      ],
+    ]
+  },
 };
 
 export default patterns;
