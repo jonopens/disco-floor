@@ -5,7 +5,7 @@ export default class AppStore {
   @observable isLastFrame = false;
   @observable isPulsingOn = false;
   @observable isPlaying = false;
-  @observable showBuilder = false;
+  @observable containerName = 'Player';
 
   constructor(rootStore) {
     this.rootStore = rootStore;
@@ -27,8 +27,8 @@ export default class AppStore {
     this.isPlaying = bool;
   }
 
-  @action setShowBuilder(bool) {
-    this.showBuilder = bool;
+  @action setContainerName(text) {
+    this.containerName = text;
   }
 
   @computed get flipTileLighting() {
@@ -36,5 +36,9 @@ export default class AppStore {
       return this.rootStore.FloorStore.currentFrame % 2 === 0 ? true : false;
     }
     return false;
+  }
+
+  isSelectedSwitch(name) {
+    return computed(() => this.containerName === name).get();
   }
 }
