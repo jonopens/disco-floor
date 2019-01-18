@@ -1,9 +1,6 @@
 import React, { Component } from 'react';
-import { observer, inject } from 'mobx-react';
 import './Tile.css'
 
-@inject('AppStore')
-@observer
 class Tile extends Component {
   getTileClass = () => {
     const colorClass = `dance-floor__tile--${this.props.color}`;

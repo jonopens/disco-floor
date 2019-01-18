@@ -4,7 +4,7 @@ import TileRow from './TileRow';
 import patterns from '../../data/patterns';
 import './Floor.css'
 
-@inject('AppStore', 'FloorStore')
+@inject('FloorStore')
 @observer
 class Floor extends Component {
 

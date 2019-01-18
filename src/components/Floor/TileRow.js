@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Tile from './Tile';
+import tileTemplates from '../../data/tileTemplates';
 import './TileRow.css';
 
 class TileRow extends Component {
@@ -7,8 +8,8 @@ class TileRow extends Component {
     const tiles = this.props.tiles.map((tile, idx) => {
       return (
         <Tile
-          color={tile.color}
-          isLit={tile.isLit}
+          color={tileTemplates[tile].color}
+          isLit={tileTemplates[tile].isLit}
           key={`coord-${this.props.rowNum}-${idx}`}
         />
       );

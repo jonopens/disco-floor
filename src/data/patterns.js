@@ -2,5448 +2,588 @@ const patterns = {
   'default': {
     0: [
       [
-        {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }
+        1, 1, 1, 1, 1, 1, 1, 1, 1
       ],
       [
-        {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }
+        1, 1, 1, 1, 1, 1, 1, 1, 1
       ],
       [
-        {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }
+        1, 1, 1, 1, 1, 1, 1, 1, 1
       ],
       [
-        {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }
+        1, 1, 1, 1, 1, 1, 1, 1, 1
       ],
       [
-        {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }
+        1, 1, 1, 1, 1, 1, 1, 1, 1
       ],
       [
-        {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }
+        1, 1, 1, 1, 1, 1, 1, 1, 1
       ],
       [
-        {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }
+        1, 1, 1, 1, 1, 1, 1, 1, 1
       ],
       [
-        {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }
+        1, 1, 1, 1, 1, 1, 1, 1, 1
       ],
       [
-        {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }
+        1, 1, 1, 1, 1, 1, 1, 1, 1
       ]
     ],
     1: [
       [
-        {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }
+        1, 1, 1, 1, 1, 1, 1, 1, 1
       ],
       [
-        {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'black',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, , {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'black',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }
+        1, 1, 3, 1, 1, 1, 3, 1, 1
       ],
       [
-        {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }
+        1, 1, 1, 1, 1, 1, 1, 1, 1
       ],
       [
-        {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }
+        1, 1, 1, 1, 1, 1, 1, 1, 1
       ],
       [
-        {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }
+        1, 1, 1, 1, 1, 1, 1, 1, 1
       ],
       [
-        {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'black',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, , {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'black',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }
+        1, 3, 1, 1, 1, 1, 1, 3, 1
       ],
       [
-        {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'black',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, , {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'black',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }
+        1, 3, 1, 1, 1, 1, 1, 3, 1
       ],
       [
-        {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'black',
-          isLit: false
-        }, {
-          color: 'black',
-          isLit: false
-        }, {
-          color: 'black',
-          isLit: false
-        }, {
-          color: 'black',
-          isLit: false
-        }, {
-          color: 'black',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }
+        1, 1, 3, 3, 3, 3, 3, 1, 1
       ],
       [
-        {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }, {
-          color: 'white',
-          isLit: false
-        }
+        1, 1, 1, 1, 1, 1, 1, 1, 1
       ]
     ]
   },
   'checkerboard': {
     0: [
       [
-        {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }
+        8, 13, 8, 13, 8, 13, 8, 13, 8
       ],
       [
-        {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }
+        13, 8, 13, 8, 13, 8, 13, 8, 13
       ],
       [
-        {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }
+        8, 13, 8, 13, 8, 13, 8, 13, 8
       ],
       [
-        {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }
+        13, 8, 13, 8, 13, 8, 13, 8, 13
       ],
       [
-        {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }
+        8, 13, 8, 13, 8, 13, 8, 13, 8
       ],
       [
-        {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }
+        13, 8, 13, 8, 13, 8, 13, 8, 13
       ],
       [
-        {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }
+        8, 13, 8, 13, 8, 13, 8, 13, 8
       ],
       [
-        {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }
+        13, 8, 13, 8, 13, 8, 13, 8, 13
       ],
       [
-        {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }, {
-          color: 'green',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: true
-        }
+        8, 13, 8, 13, 8, 13, 8, 13, 8
       ]
     ],
     1: [
       [
-        {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }
+        14, 7, 14, 7, 14, 7, 14, 7, 14
       ],
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        7, 14, 7, 14, 7, 14, 7, 14, 7
       ],
       [
-        {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }
+        14, 7, 14, 7, 14, 7, 14, 7, 14
       ],
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        7, 14, 7, 14, 7, 14, 7, 14, 7
       ],
       [
-        {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }
+        14, 7, 14, 7, 14, 7, 14, 7, 14
       ],
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        7, 14, 7, 14, 7, 14, 7, 14, 7
       ],
       [
-        {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }
+        14, 7, 14, 7, 14, 7, 14, 7, 14
       ],
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        7, 14, 7, 14, 7, 14, 7, 14, 7
       ],
       [
-        {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }
+        14, 7, 14, 7, 14, 7, 14, 7, 14
       ]
     ],
   },
   'line-up': {
     0: [
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }
+        11, 11, 11, 11, 11, 11, 9, 7, 18
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }
+        11, 11, 11, 11, 11, 11, 9, 7, 18
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }
+        11, 11, 11, 11, 11, 11, 9, 7, 18
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }
+        11, 11, 11, 11, 11, 11, 9, 7, 18
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }
+        11, 11, 11, 11, 11, 11, 9, 7, 18
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }
+        11, 11, 11, 11, 11, 11, 9, 7, 18
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }
+        11, 11, 11, 11, 11, 11, 9, 7, 18
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }
+        11, 11, 11, 11, 11, 11, 9, 7, 18
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }
+        11, 11, 11, 11, 11, 11, 9, 7, 18
       ]
     ],
     1: [
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        11, 11, 11, 11, 11, 9, 7, 18, 7
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        11, 11, 11, 11, 11, 9, 7, 18, 7
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        11, 11, 11, 11, 11, 9, 7, 18, 7
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        11, 11, 11, 11, 11, 9, 7, 18, 7
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        11, 11, 11, 11, 11, 9, 7, 18, 7
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        11, 11, 11, 11, 11, 9, 7, 18, 7
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        11, 11, 11, 11, 11, 9, 7, 18, 7
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        11, 11, 11, 11, 11, 9, 7, 18, 7
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        11, 11, 11, 11, 11, 9, 7, 18, 7
       ]
     ],
     2: [
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }
+        11, 11, 11, 11, 9, 7, 18, 7, 9
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }
+        11, 11, 11, 11, 9, 7, 18, 7, 9
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }
+        11, 11, 11, 11, 9, 7, 18, 7, 9
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }
+        11, 11, 11, 11, 9, 7, 18, 7, 9
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }
+        11, 11, 11, 11, 9, 7, 18, 7, 9
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }
+        11, 11, 11, 11, 9, 7, 18, 7, 9
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }
+        11, 11, 11, 11, 9, 7, 18, 7, 9
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }
+        11, 11, 11, 11, 9, 7, 18, 7, 9
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }
+        11, 11, 11, 11, 9, 7, 18, 7, 9
       ]
     ],
     3: [
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 11, 11, 9, 7, 18, 7, 9, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 11, 11, 9, 7, 18, 7, 9, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 11, 11, 9, 7, 18, 7, 9, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 11, 11, 9, 7, 18, 7, 9, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 11, 11, 9, 7, 18, 7, 9, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 11, 11, 9, 7, 18, 7, 9, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 11, 11, 9, 7, 18, 7, 9, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, 
+        11, 11, 11, 9, 7, 18, 7, 9, 11, 
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 11, 11, 9, 7, 18, 7, 9, 11,
       ]
     ],
     4: [
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 11, 9, 7, 18, 7, 9, 11, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 11, 9, 7, 18, 7, 9, 11, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 11, 9, 7, 18, 7, 9, 11, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 11, 9, 7, 18, 7, 9, 11, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 11, 9, 7, 18, 7, 9, 11, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 11, 9, 7, 18, 7, 9, 11, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 11, 9, 7, 18, 7, 9, 11, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 11, 9, 7, 18, 7, 9, 11, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 11, 9, 7, 18, 7, 9, 11, 11,
       ]
     ],
     5: [
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 9, 7, 18, 7, 9, 11, 11, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 9, 7, 18, 7, 9, 11, 11, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 9, 7, 18, 7, 9, 11, 11, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 9, 7, 18, 7, 9, 11, 11, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 9, 7, 18, 7, 9, 11, 11, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 9, 7, 18, 7, 9, 11, 11, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 9, 7, 18, 7, 9, 11, 11, 11,
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, 
+        11, 9, 7, 18, 7, 9, 11, 11, 11, 
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        11, 9, 7, 18, 7, 9, 11, 11, 11,
       ]
     ],
     6: [
       [
-        {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        9, 7, 18, 7, 9, 11, 11, 11, 11,
       ],
       [
-        {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        9, 7, 18, 7, 9, 11, 11, 11, 11,
       ],
       [
-        {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        9, 7, 18, 7, 9, 11, 11, 11, 11,
       ],
       [
-        {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        9, 7, 18, 7, 9, 11, 11, 11, 11,
       ],
       [
-        {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        9, 7, 18, 7, 9, 11, 11, 11, 11,
       ],
       [
-        {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        9, 7, 18, 7, 9, 11, 11, 11, 11,
       ],
       [
-        {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        9, 7, 18, 7, 9, 11, 11, 11, 11,
       ],
       [
-        {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        9, 7, 18, 7, 9, 11, 11, 11, 11,
       ],
       [
-        {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        9, 7, 18, 7, 9, 11, 11, 11, 11,
       ]
     ],
     7: [
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        7, 18, 7, 9, 11, 11, 11, 11, 11,
       ],
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        7, 18, 7, 9, 11, 11, 11, 11, 11,
       ],
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        7, 18, 7, 9, 11, 11, 11, 11, 11,
       ],
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        7, 18, 7, 9, 11, 11, 11, 11, 11,
       ],
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        7, 18, 7, 9, 11, 11, 11, 11, 11,
       ],
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        7, 18, 7, 9, 11, 11, 11, 11, 11,
       ],
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        7, 18, 7, 9, 11, 11, 11, 11, 11,
       ],
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        7, 18, 7, 9, 11, 11, 11, 11, 11,
       ],
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        },
+        7, 18, 7, 9, 11, 11, 11, 11, 11,
       ]
     ],
     8: [
       [
-        {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }
+        18, 7, 9, 11, 11, 11, 11, 11, 11
       ],
       [
-        {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }
+        18, 7, 9, 11, 11, 11, 11, 11, 11
       ],
       [
-        {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }
+        18, 7, 9, 11, 11, 11, 11, 11, 11
       ],
       [
-        {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }
+        18, 7, 9, 11, 11, 11, 11, 11, 11
       ],
       [
-        {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }
+        18, 7, 9, 11, 11, 11, 11, 11, 11
       ],
       [
-        {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }
+        18, 7, 9, 11, 11, 11, 11, 11, 11
       ],
       [
-        {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }
+        18, 7, 9, 11, 11, 11, 11, 11, 11
       ],
       [
-        {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }
+        18, 7, 9, 11, 11, 11, 11, 11, 11
       ],
       [
-        {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }
+        18, 7, 9, 11, 11, 11, 11, 11, 11
       ]
     ]
   },
   'x-in': {
     0: [
       [
-        {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }
+        18, 15, 14, 11, 9, 11, 14, 15, 18
       ],
       [
-        {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }
+        15, 18, 15, 14, 11, 14, 15, 18, 15
       ],
       [
-        {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }
+        14, 15, 18, 15, 14, 15, 18, 15, 14
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }
+        11, 14, 15, 18, 15, 18, 15, 14, 11
       ],
       [
-        {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }
+        9, 11, 14, 15, 18, 15, 14, 11, 9
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }
+        11, 14, 15, 18, 15, 18, 15, 14, 11
       ],
       [
-        {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }
+        14, 15, 18, 15, 14, 15, 18, 15, 14
       ],
       [
-        {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }
+        15, 18, 15, 14, 11, 14, 15, 18, 15
       ],
       [
-        {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }
+        18, 15, 14, 11, 9, 11, 14, 15, 18
       ]
     ],
     1: [
       [
-        {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }
+        15, 14, 11, 9, 7, 9, 11, 14, 15
       ],
       [
-        {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }
+        14, 15, 14, 11, 9, 11, 14, 15, 14
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }
+        11, 14, 15, 14, 11, 14, 15, 14, 11
       ],
       [
-        {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }
+        9, 11, 14, 15, 14, 15, 14, 11, 9
       ],
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        7, 9, 11, 14, 15, 14, 11, 9, 7
       ],
       [
-        {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }
+        9, 11, 14, 15, 14, 15, 14, 11, 9
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }
+        11, 14, 15, 14, 11, 14, 15, 14, 11
       ],
       [
-        {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }
+        14, 15, 14, 11, 9, 11, 14, 15, 14
       ],
       [
-        {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }
+        15, 14, 11, 9, 7, 9, 11, 14, 15
       ]
     ],
     2: [
       [
-        {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }
+        14, 11, 9, 7, 6, 7, 9, 11, 14
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }
+        11, 14, 11, 9, 7, 9, 11, 14, 11
       ],
       [
-        {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }
+        9, 11, 14, 11, 9, 11, 14, 11, 9
       ],
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        7, 9, 11, 14, 11, 14, 11, 9, 7
       ],
       [
-        {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }
+        6, 7, 9, 11, 14, 11, 9, 7, 6
       ],
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        7, 9, 11, 14, 11, 14, 11, 9, 7
       ],
       [
-        {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }
+        9, 11, 14, 11, 9, 11, 14, 11, 9
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }
+        11, 14, 11, 9, 7, 9, 11, 14, 11
       ],
       [
-        {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }
+        14, 11, 9, 7, 6, 7, 9, 11, 14
       ]
     ],
     3: [
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }
+        11, 9, 7, 6, 18, 6, 7, 9, 11
       ],
       [
-        {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }
+        9, 11, 9, 7, 6, 7, 9, 11, 9
       ],
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        7, 9, 11, 9, 7, 9, 11, 9, 7
       ],
       [
-        {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }
+        6, 7, 9, 11, 9, 11, 9, 7, 6
       ],
       [
-        {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }
+        18, 6, 7, 9, 11, 9, 7, 6, 18
       ],
       [
-        {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }
+        6, 7, 9, 11, 9, 11, 9, 7, 6
       ],
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        7, 9, 11, 9, 7, 9, 11, 9, 7
       ],
       [
-        {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }
+        9, 11, 9, 7, 6, 7, 9, 11, 9
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'yellow',
-          isLit: false
-        }
+        11, 9, 7, 6, 18, 6, 7, 9, 11
       ],
     ],
     4: [
       [
-        {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }
+        9, 7, 6, 18, 15, 18, 6, 7, 9
       ],
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        7, 9, 7, 6, 18, 6, 7, 9, 7
       ],
       [
-        {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }
+        6, 7, 9, 7, 6, 7, 9, 7, 6
       ],
       [
-        {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }
+        18, 6, 7, 9, 7, 9, 7, 6, 18
       ],
       [
-        {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }
+        15, 18, 6, 7, 9, 7, 6, 18, 15
       ],
       [
-        {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }
+        18, 6, 7, 9, 7, 9, 7, 6, 18
       ],
       [
-        {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }
+        6, 7, 9, 7, 6, 7, 9, 7, 6
       ],
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        7, 9, 7, 6, 18, 6, 7, 9, 7
       ],
       [
-        {
-          color: 'orange',
-          isLit: false
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'orange',
-          isLit: false
-        }
+        9, 7, 6, 18, 15, 18, 6, 7, 9
       ]
     ],
     5: [
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        7, 6, 18, 15, 14, 15, 18, 6, 7
       ],
       [
-        {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }
+        6, 7, 6, 18, 15, 18, 6, 7, 6
       ],
       [
-        {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }
+        18, 6, 7, 6, 18, 6, 7, 6, 18
       ],
       [
-        {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }
+        15, 18, 6, 7, 6, 7, 6, 18, 15
       ],
       [
-        {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }
+        14, 15, 18, 6, 7, 6, 18, 15, 14
       ],
       [
-        {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }
+        15, 18, 6, 7, 6, 7, 6, 18, 15
       ],
       [
-        {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }
+        18, 6, 7, 6, 18, 6, 7, 6, 18
       ],
       [
-        {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }
+        6, 7, 6, 18, 15, 18, 6, 7, 6
       ],
       [
-        {
-          color: 'red',
-          isLit: false
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'red',
-          isLit: false
-        }
+        7, 6, 18, 15, 14, 15, 18, 6, 7
       ],
     ],
     6: [
       [
-        {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }
+        6, 18, 15, 14, 11, 14, 15, 18, 6
       ],
       [
-        {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }
+        18, 6, 18, 15, 14, 15, 18, 6, 18
       ],
       [
-        {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }
+        15, 18, 6, 18, 15, 18, 6, 18, 15
       ],
       [
-        {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }
+        14, 15, 18, 6, 18, 6, 18, 15, 14
       ],
       [
-        {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }
+        11, 14, 15, 18, 6, 18, 15, 14, 11
       ],
       [
-        {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }
+        14, 15, 18, 6, 18, 6, 18, 15, 14
       ],
       [
-        {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }
+        15, 18, 6, 18, 15, 18, 6, 18, 15
       ],
       [
-        {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }
+        18, 6, 18, 15, 14, 15, 18, 6, 18
       ],
       [
-        {
-          color: 'magenta',
-          isLit: true
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'yellow',
-          isLit: false
-        }, {
-          color: 'green',
-          isLit: true
-        }, {
-          color: 'blue',
-          isLit: false
-        }, {
-          color: 'purple',
-          isLit: true
-        }, {
-          color: 'magenta',
-          isLit: true
-        }
+        6, 18, 15, 14, 11, 14, 15, 18, 6
       ],
     ]
   },
