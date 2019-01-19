@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { inject, observer } from 'mobx-react';
-import './BuilderButton';
 
 @inject('AppStore')
 @observer
@@ -20,7 +19,7 @@ class BuilderButton extends Component {
         className={`builder-switch__option ${selected}`}
         onClick={this.handleClick}
       >
-        {this.props.name}
+        <span>{this.props.name}</span>
       </div>
     );
   }

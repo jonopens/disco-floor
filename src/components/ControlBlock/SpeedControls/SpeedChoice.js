@@ -14,12 +14,18 @@ export default class SpeedChoice extends Component {
   }
 
   render() {
-    const choiceClassNames = +this.props.speed === this.props.FloorStore.selectedSpeed
+    const isSelectedSpeed = +this.props.speed === this.props.FloorStore.selectedSpeed
+    const choiceClassNames = isSelectedSpeed
       ? "speed-choice speed-choice--selected"
-      : "speed-choice";
+      : "speed-choice speed-choice--not-selected";
 
     return(
-      <span onClick={this.changeSpeedSelection} className={choiceClassNames}>{`${this.props.speed}x`}</span>
+      <span 
+        onClick={this.changeSpeedSelection}
+        className={choiceClassNames}
+      >
+        <span className={isSelectedSpeed ? 'speed-choice__text' : ''}>{`${this.props.speed}x`}</span>
+      </span>
     )
   }
 }
