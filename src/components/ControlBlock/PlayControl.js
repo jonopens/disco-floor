@@ -18,17 +18,13 @@ export default class PlayControl extends Component {
   }
 
   render() {
-    const playerIcon = this.props.AppStore.isPlaying ? '◼' : '▶';
-    const playerClassName = this.props.AppStore.isPlaying
-      ? 'button__play-button button__play-button--stopped'
-      : 'button__play-button button__play-button--playing';
-      
+    const { AppStore } = this.props;
     return(
       <div className="control-block__item  control-block__item--play">
         <Button
           handleClick={this.togglePlayerState}
-          buttonClass={playerClassName}
-          buttonText={playerIcon}
+          buttonClass={AppStore.playerClassName}
+          buttonText={AppStore.playerIcon}
         />
       </div>
     )

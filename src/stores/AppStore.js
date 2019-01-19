@@ -38,6 +38,20 @@ export default class AppStore {
     return false;
   }
 
+  @computed get playerIcon() {
+    if (this.isPlaying) {
+      return String.fromCharCode(9632);
+    }
+    return String.fromCharCode(9654);
+  }
+
+  @computed get playerClassName() {
+    if (this.isPlaying) {
+      return 'button__play-button button__play-button--stopped';
+    }
+    return 'button__play-button button__play-button--playing';
+  }
+
   isSelectedSwitch(name) {
     return computed(() => this.containerName === name).get();
   }
