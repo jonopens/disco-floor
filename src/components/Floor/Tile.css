@@ -38,6 +38,10 @@
   background-color: blue;
 }
 
+.dance-floor__tile--indigo {
+  background-color: rgb(4, 48, 130);
+}
+
 .dance-floor__tile--purple {
   background-color: purple;
 }

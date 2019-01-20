@@ -64,13 +64,68 @@ const tileTemplates = {
     isLit: true
   },
   17: {
-    color: 'purple',
+    color: 'indigo',
     isLit: false
   },
   18: {
+    color: 'indigo',
+    isLit: true
+  },
+  19: {
+    color: 'purple',
+    isLit: false
+  },
+  20: {
     color: 'purple',
     isLit: true
   }
-}
+};
 
-export default tileTemplates;
+const invertColor = (tileNum) => {
+  switch (tileNum) {
+    case 1:
+      return 3;
+    case 2:
+      return 4;
+    case 3:
+      return 1;
+    case 4:
+      return 2;
+    case 5:
+      return 13;
+    case 6:
+      return 14;
+    case 7:
+      return 15;
+    case 8:
+      return 16;
+    case 9:
+      return 17;
+    case 10:
+      return 18;
+    case 11:
+      return 19;
+    case 12:
+      return 20;
+    case 13:
+      return 5;
+    case 14:
+      return 6;
+    case 15:
+      return 7;
+    case 16:
+      return 8;
+    case 17:
+      return 9;
+    case 18:
+      return 10;
+    case 19:
+      return 11;
+    case 20:
+      return 12;
+    default:
+      return null;
+  }
+};
+
+export { tileTemplates, invertColor };
