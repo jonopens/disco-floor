@@ -1,0 +1,29 @@
+.step-change {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.step-change__switch {
+  width: 500px;
+}
+
+.step-change__button {
+  border-radius: 5px;
+  box-shadow: 2px 3px gray;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 45px;
+  width: 230px;
+  margin: 7px 12px 13px 8px;
+  font: 20px sans-serif;
+}
+
+.step-change__button--disabled {
+  border: 2px solid gray;
+  box-shadow: inset 2px 3px gray;
+  margin: 10px 12px 10px 8px;
+  color: gray;
+}

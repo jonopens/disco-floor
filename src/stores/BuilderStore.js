@@ -2,9 +2,9 @@ import { observable, action, computed } from 'mobx';
 
 export default class BuilderStore {
   @observable builderStep = 1; // values from 1 to 3 ONLY
-  @observable workingFrame = 0;
   @observable patternName = '';
-  @observable floorDimensions = [9, 9] // default;
+  @observable floorDimensions = [9, 9]; // default;
+  @observable workingFrame = 0;
   @observable workingPattern = {};
 
   constructor(rootStore) {
@@ -17,7 +17,17 @@ export default class BuilderStore {
     }
   }
 
-  @action addWorkingFrame(frame) {
+  @action setPatternName(name) {
+    this.patternName = name;
+  }
+
+  @action setFloorDimensions(array) {
+    if (array.length === 2) {
+      this.floorDimensions = array;
+    }
+  }
+
+  @action addWorkingFrame() {
     // add a frame at key of current workingFrame in workingPattern
     // increment workingFrame number
   }
