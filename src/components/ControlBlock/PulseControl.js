@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { observer, inject } from 'mobx-react';
 import Toggle from '../Common/Toggle';
 
-@inject('AppStore', 'FloorStore')
+@inject('AppStore', 'PlayerStore')
 @observer
 class PulseControl extends Component {
 

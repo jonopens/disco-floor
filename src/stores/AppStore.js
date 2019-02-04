@@ -33,7 +33,7 @@ export default class AppStore {
 
   @computed get flipTileLighting() {
     if (this.isPulsingOn) {
-      return this.rootStore.FloorStore.currentFrame % 2 === 0 ? true : false;
+      return this.rootStore.PlayerStore.currentFrame % 2 === 0 ? true : false;
     }
     return false;
   }

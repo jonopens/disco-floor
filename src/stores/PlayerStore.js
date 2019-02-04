@@ -1,7 +1,7 @@
 import { observable, action, computed } from 'mobx';
 import patterns from '../data/patterns';
 
-export default class FloorStore {
+export default class PlayerStore {
   @observable selectedPattern = 'default';
   @observable selectedSpeed = 1.0;
   @observable currentFrame = 0;

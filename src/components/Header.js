@@ -2,10 +2,10 @@ import React from 'react';
 import BuilderSwitch from './BuilderSwitch/BuilderSwitch';
 import './Header.css';
 
-const Header = () => {
+const Header = (props) => {
   return (
     <React.Fragment>
-      <h1 className="header">DISCO FLOOR PLAYER & BUILDER</h1>
+      <h1 className="header">{props.headerText}</h1>
       <BuilderSwitch />
     </React.Fragment>
   )

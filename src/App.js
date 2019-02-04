@@ -1,16 +1,16 @@
-import React from 'react';
+import React, { Component } from 'react';
 import './App.css';
 import Header from './components/Header';
 import Container from './components/Container';
 import { inject, observer } from 'mobx-react';
 
-@inject('AppStore', 'FloorStore')
+@inject('AppStore', 'PlayerStore')
 @observer
-class App extends React.Component {
+class App extends Component {
   render() {
     return(
       <React.Fragment>
-        <Header />
+        <Header headerText="DISCO FLOOR PLAYER & BUILDER" />
         <Container />
       </React.Fragment>
     );

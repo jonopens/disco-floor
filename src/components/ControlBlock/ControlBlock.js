@@ -8,7 +8,7 @@ import ColorInvertControl from './ColorInvertControl';
 import PatternSelection from './PatternSelection';
 import './ControlBlock.css';
 
-@inject('AppStore', 'FloorStore')
+@inject('AppStore', 'PlayerStore')
 @observer export default class ControlBlock extends Component {
   render() {
     return (
