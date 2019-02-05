@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { observer, inject } from 'mobx-react';
 import ControlBlock from './ControlBlock/ControlBlock';
-import Floor from './Floor/Floor';
+import PlayerFloor from './Floors/PlayerFloor';
 import FloorBuilder from './FloorBuilder/FloorBuilder';
 import './Container.css';
 
@@ -13,7 +13,7 @@ class Container extends Component {
       return (
         <div className="container">
           <ControlBlock />
-          <Floor />
+          <PlayerFloor />
         </div>
       )
     }

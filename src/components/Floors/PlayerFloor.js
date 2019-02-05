@@ -6,7 +6,7 @@ import './Floor.css'
 
 @inject('PlayerStore')
 @observer
-class Floor extends Component {
+class PlayerFloor extends Component {
 
   render() {
     const frame = this.props.PlayerStore.currentFrame;
@@ -23,4 +23,4 @@ class Floor extends Component {
   }
 }
 
-export default Floor;
+export default PlayerFloor;

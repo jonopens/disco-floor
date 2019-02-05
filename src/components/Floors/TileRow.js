@@ -8,7 +8,6 @@ import './TileRow.css';
 @inject('AppStore')
 @observer
 class TileRow extends Component {
-
   makeTiles = (tileNumbersArray) => {
     const adjustedTileArray = this.props.AppStore.isColorInverted 
       ? tileNumbersArray.map(tile => invertColor(tile))
@@ -17,6 +16,8 @@ class TileRow extends Component {
     return adjustedTileArray.map((tileNumber, idx) => {
       return (
         <Tile
+          setTile={this.props.setTile}
+          frameAddress={[this.props.rowNum, idx]}
           color={tileTemplates[tileNumber].color}
           isLit={tileTemplates[tileNumber].isLit}
           key={`coord-${this.props.rowNum}-${idx}`}

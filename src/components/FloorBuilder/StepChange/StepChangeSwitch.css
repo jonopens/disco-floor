@@ -5,10 +5,12 @@
 }
 
 .step-change__switch {
-  width: 500px;
+  /* width: 500px; */
 }
 
 .step-change__button {
+  color: white;
+  background-color: black;
   border-radius: 5px;
   box-shadow: 2px 3px gray;
   border: 2px solid black;
@@ -23,7 +25,8 @@
 
 .step-change__button--disabled {
   border: 2px solid gray;
-  box-shadow: inset 2px 3px gray;
+  box-shadow: inset 2px 3px lightgray;
   margin: 10px 12px 10px 8px;
-  color: gray;
+  background-color: white;
+  color: black;
 }
