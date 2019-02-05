@@ -10,12 +10,25 @@ class Tile extends Component {
   state = {
     tile: 1,
   }
+  incOrDecTile = (isShiftPressed) => {
+    if (isShiftPressed) {
+      console.log('isShiftPressed', isShiftPressed);
+      const decValue = this.state.tile ===  1 ? 20 : this.state.tile - 1;
+      this.setState({ tile: decValue });
+    } else {
+      const incValue = this.state.tile === 20 ? 1 : this.state.tile + 1;
+      this.setState({ tile: incValue });
+    }
 
-  swapTile = () => {
+    this.props.setTile(this.props.frameAddress, this.state.tile);
+  }
+
+  swapTile = (event) => {
+    let shiftKey = event.shiftKey;
+    console.log('shiftkey in swaptile', shiftKey);
     if (this.props.AppStore.containerName === 'Builder') {
       const newVal = this.state.tile === 20 ? 1 : this.state.tile + 1;
-      this.setState({ tile: newVal });
-      this.props.setTile(this.props.frameAddress, this.state.tile);
+      this.incOrDecTile(shiftKey);
     }
     return false;
   }
