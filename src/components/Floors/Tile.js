@@ -28,7 +28,9 @@ class Tile extends Component {
   }
 
   render() {
-    const tileClasses = this.getTileClass(tileTemplates[this.state.tile]);
+    const tileClasses = this.props.AppStore.containerName === 'Builder'
+      ? this.getTileClass(tileTemplates[this.state.tile])
+      : this.getTileClass();
     
     return(
       <div onClick={this.swapTile} className={tileClasses} />
