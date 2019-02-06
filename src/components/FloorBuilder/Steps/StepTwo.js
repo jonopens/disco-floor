@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { inject, observer } from 'mobx-react';
 
+import BuilderFloor from '../../Floors/BuilderFloor';
 import './Steps.css';
 
 @inject('BuilderStore', 'AppStore')
@@ -9,8 +10,8 @@ export default class StepTwo extends Component {
   render() {
     if (this.props.BuilderStore.builderStep === 2) {
       return (
-        <div>
-          <p>POOT 2</p>
+        <div className="step step__two">
+          <BuilderFloor />
         </div>
       );
     }

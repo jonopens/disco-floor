@@ -12,7 +12,6 @@ class Tile extends Component {
   }
   incOrDecTile = (isShiftPressed) => {
     if (isShiftPressed) {
-      console.log('isShiftPressed', isShiftPressed);
       const decValue = this.state.tile ===  1 ? 20 : this.state.tile - 1;
       this.setState({ tile: decValue });
     } else {
@@ -25,7 +24,7 @@ class Tile extends Component {
 
   swapTile = (event) => {
     let shiftKey = event.shiftKey;
-    console.log('shiftkey in swaptile', shiftKey);
+
     if (this.props.AppStore.containerName === 'Builder') {
       const newVal = this.state.tile === 20 ? 1 : this.state.tile + 1;
       this.incOrDecTile(shiftKey);
