@@ -2,18 +2,36 @@ import React, { Component } from 'react';
 import { observer, inject } from 'mobx-react';
 
 import Tile from './Tile';
-import { tileTemplates, invertColor } from '../../data/tileTemplates';
+import { 
+  tileTemplates,
+  invertColor,
+  pulseTile,
+  pulseAndInvert,
+} from '../../data/tileTemplates';
 import './TileRow.css';
 
 @inject('AppStore')
 @observer
 class TileRow extends Component {
-  makeTiles = (tileNumbersArray) => {
-    const adjustedTileArray = this.props.AppStore.isColorInverted 
-      ? tileNumbersArray.map(tile => invertColor(tile))
-      : tileNumbersArray;
+  remapTileNumbers = (tiles, callback) => {
+    return tiles.map(t => callback(t, tileTemplates[t].isLit));
+  }
 
-    return adjustedTileArray.map((tileNumber, idx) => {
+  makeTiles = (tileNumbers) => {
+    const { isPulsingOn, isColorInverted } = this.props.AppStore;
+    let adjustedTiles;
+
+    if (isPulsingOn && isColorInverted) {
+      adjustedTiles = this.remapTileNumbers(tileNumbers, pulseAndInvert);
+    } else if (!isPulsingOn && isColorInverted) {
+      adjustedTiles = this.remapTileNumbers(tileNumbers, invertColor);
+    } else if (isPulsingOn && !isColorInverted) {
+      adjustedTiles = this.remapTileNumbers(tileNumbers, pulseTile);
+    } else {
+      adjustedTiles = tileNumbers;
+    }
+
+    return adjustedTiles.map((tileNumber, idx) => {
       return (
         <Tile
           setTile={this.props.setTile}

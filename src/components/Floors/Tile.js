@@ -8,26 +8,25 @@ import './Tile.css'
 @observer
 class Tile extends Component {
   state = {
-    tile: 1,
+    templateIndex: 1,
   }
   incOrDecTile = (isShiftPressed) => {
     if (isShiftPressed) {
-      const decValue = this.state.tile ===  1 ? 20 : this.state.tile - 1;
+      const decValue = this.state.templateIndex ===  1 ? 20 : this.state.templateIndex - 1;
       this.setState({ tile: decValue });
     } else {
-      const incValue = this.state.tile === 20 ? 1 : this.state.tile + 1;
+      const incValue = this.state.templateIndex === 20 ? 1 : this.state.templateIndex + 1;
       this.setState({ tile: incValue });
     }
 
-    this.props.setTile(this.props.frameAddress, this.state.tile);
+    this.props.setTile(this.props.frameAddress, this.state.templateIndex);
   }
 
   swapTile = (event) => {
-    let shiftKey = event.shiftKey;
-
+    // if shift key is pressed, send to incOrDecTile
     if (this.props.AppStore.containerName === 'Builder') {
-      const newVal = this.state.tile === 20 ? 1 : this.state.tile + 1;
-      this.incOrDecTile(shiftKey);
+      const newVal = this.state.templateIndex === 20 ? 1 : this.state.templateIndex + 1;
+      this.incOrDecTile(event.shiftKey);
     }
     return false;
   }
@@ -35,13 +34,16 @@ class Tile extends Component {
   getTileClass = (tile = { color: this.props.color, isLit: this.props.isLit }) => {
     const colorClass = `dance-floor__tile--${tile.color}`;
     const isLitClass = `dance-floor__tile--${tile.isLit ? 'lit' : 'unlit'}`;
+    const miniClass = this.props.AppStore.containerName === 'Builder'
+      ? 'dance-floor__tile--mini'
+      : '';
 
-    return `dance-floor__tile ${colorClass} ${isLitClass}`;
+    return `dance-floor__tile ${miniClass} ${colorClass} ${isLitClass}`;
   }
 
   render() {
     const tileClasses = this.props.AppStore.containerName === 'Builder'
-      ? this.getTileClass(tileTemplates[this.state.tile])
+      ? this.getTileClass(tileTemplates[this.state.templateIndex])
       : this.getTileClass();
     
     return(
