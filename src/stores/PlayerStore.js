@@ -100,6 +100,8 @@ export default class PlayerStore {
   }
 
   pulseAndInvert = (tileNum, isLit) => {
-    return invertColor(pulseTile(tileNum, isLit));
+    return this.invertColor(
+      this.pulseTile(tileNum, isLit)
+    );
   }
 }
