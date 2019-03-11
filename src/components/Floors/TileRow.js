@@ -2,42 +2,40 @@ import React, { Component } from 'react';
 import { observer, inject } from 'mobx-react';
 
 import Tile from './Tile';
-import { 
-  tileTemplates,
-  invertColor,
-  pulseTile,
-  pulseAndInvert,
-} from '../../data/tileTemplates';
 import './TileRow.css';
+import { TILE_REFERENCE } from '../../data/reference';
 
-@inject('AppStore')
+@inject('AppStore', 'PlayerStore')
 @observer
 class TileRow extends Component {
   remapTileNumbers = (tiles, callback) => {
-    return tiles.map(t => callback(t, tileTemplates[t].isLit));
+    return tiles.map(t => callback(t, TILE_REFERENCE[t].isLit));
   }
 
-  makeTiles = (tileNumbers) => {
+  determineTiles = (tiles) => {
     const { isPulsingOn, isColorInverted } = this.props.AppStore;
-    let adjustedTiles;
+    const { invertColor, pulseTile, pulseAndInvert } = this.props.PlayerStore
 
     if (isPulsingOn && isColorInverted) {
-      adjustedTiles = this.remapTileNumbers(tileNumbers, pulseAndInvert);
+      return this.remapTileNumbers(tiles, pulseAndInvert);
     } else if (!isPulsingOn && isColorInverted) {
-      adjustedTiles = this.remapTileNumbers(tileNumbers, invertColor);
+      return this.remapTileNumbers(tiles, invertColor);
     } else if (isPulsingOn && !isColorInverted) {
-      adjustedTiles = this.remapTileNumbers(tileNumbers, pulseTile);
+      return this.remapTileNumbers(tiles, pulseTile);
     } else {
-      adjustedTiles = tileNumbers;
+      return tiles;
     }
+  }
 
-    return adjustedTiles.map((tileNumber, idx) => {
+  makeTiles = (tiles) => {
+    let adjustedTiles = this.determineTiles(tiles)
+
+    return adjustedTiles.map((tile, idx) => {
       return (
         <Tile
-          setTile={this.props.setTile}
           frameAddress={[this.props.rowNum, idx]}
-          color={tileTemplates[tileNumber].color}
-          isLit={tileTemplates[tileNumber].isLit}
+          color={TILE_REFERENCE[tile].color}
+          isLit={TILE_REFERENCE[tile].isLit}
           key={`coord-${this.props.rowNum}-${idx}`}
         />
       );

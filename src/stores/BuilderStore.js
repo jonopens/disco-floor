@@ -3,9 +3,20 @@ import { observable, action, computed } from 'mobx';
 export default class BuilderStore {
   @observable builderStep = 1; // values from 1 to 3 ONLY
   @observable patternName = '';
-  @observable floorDimensions = [9, 9]; // default;
+  @observable floorSize = 9; // default;
   @observable workingFrame = 0;
   @observable workingPattern = {};
+  @observable frameData = [
+    [1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1]
+  ];
 
   constructor(rootStore) {
     this.rootStore = rootStore;
@@ -21,15 +32,19 @@ export default class BuilderStore {
     this.patternName = name;
   }
 
-  @action setFloorDimensions(array) {
-    if (array.length === 2) {
-      this.floorDimensions = array;
-    }
+  @action setFloorSize(value) {
+    this.floorDimensions = array;
+  }
+
+  @action setTileInFrame(address, templateNumber) {
+    this.frameData[address[0]][address[1]] = templateNumber;
   }
 
   @action addWorkingFrame() {
     // add a frame at key of current workingFrame in workingPattern
     // increment workingFrame number
+    this.workingPattern[this.workingFrame] = this.frameData;
+    this.workingFrame += 1;
   }
 
   @action removeWorkingFrame(frame) {

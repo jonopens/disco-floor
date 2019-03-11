@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import { inject, observer } from 'mobx-react';
 
-import { tileTemplates } from '../../data/tileTemplates';
+import { TILE_REFERENCE } from '../../data/reference';
 import './Tile.css'
 
-@inject('AppStore')
+@inject('AppStore', 'BuilderStore')
 @observer
 class Tile extends Component {
   state = {
@@ -13,19 +13,21 @@ class Tile extends Component {
   incOrDecTile = (isShiftPressed) => {
     if (isShiftPressed) {
       const decValue = this.state.templateIndex ===  1 ? 20 : this.state.templateIndex - 1;
-      this.setState({ tile: decValue });
+      this.setState({ templateIndex: decValue });
     } else {
       const incValue = this.state.templateIndex === 20 ? 1 : this.state.templateIndex + 1;
-      this.setState({ tile: incValue });
+      this.setState({ templateIndex: incValue });
     }
 
-    this.props.setTile(this.props.frameAddress, this.state.templateIndex);
+    this.props.BuilderStore.setTileInFrame(
+      this.props.frameAddress,
+      this.state.templateIndex
+    );
   }
 
   swapTile = (event) => {
     // if shift key is pressed, send to incOrDecTile
     if (this.props.AppStore.containerName === 'Builder') {
-      const newVal = this.state.templateIndex === 20 ? 1 : this.state.templateIndex + 1;
       this.incOrDecTile(event.shiftKey);
     }
     return false;
@@ -43,7 +45,7 @@ class Tile extends Component {
 
   render() {
     const tileClasses = this.props.AppStore.containerName === 'Builder'
-      ? this.getTileClass(tileTemplates[this.state.templateIndex])
+      ? this.getTileClass(TILE_REFERENCE[this.state.templateIndex])
       : this.getTileClass();
     
     return(
