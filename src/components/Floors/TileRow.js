@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import { observer, inject } from 'mobx-react';
 
+import { TILE_REFERENCE } from '../../data/reference';
 import Tile from './Tile';
 import './TileRow.css';
-import { TILE_REFERENCE } from '../../data/reference';
 
 @inject('AppStore', 'PlayerStore')
 @observer
@@ -14,15 +14,29 @@ class TileRow extends Component {
 
   determineTiles = (tiles) => {
     const { isPulsingOn, isColorInverted } = this.props.AppStore;
-    const { invertColor, pulseTile, pulseAndInvert } = this.props.PlayerStore
+    const {
+      shouldFlipTileLighting,
+      pulseAndInvert,
+      invertColor,
+      pulseTile,
+    } = this.props.PlayerStore;
 
     if (isPulsingOn && isColorInverted) {
+      if (shouldFlipTileLighting) {
+        return this.remapTileNumbers(tiles, invertColor);
+      }
       return this.remapTileNumbers(tiles, pulseAndInvert);
-    } else if (!isPulsingOn && isColorInverted) {
-      return this.remapTileNumbers(tiles, invertColor);
-    } else if (isPulsingOn && !isColorInverted) {
+    }
+    else if (isPulsingOn && !isColorInverted) {
+      if (shouldFlipTileLighting) {
+        return tiles;
+      }
       return this.remapTileNumbers(tiles, pulseTile);
-    } else {
+    }
+    else if (!isPulsingOn && isColorInverted) {
+      return this.remapTileNumbers(tiles, invertColor);
+    }
+    else {
       return tiles;
     }
   }

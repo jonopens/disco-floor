@@ -31,13 +31,6 @@ export default class AppStore {
     this.containerName = text;
   }
 
-  @computed get flipTileLighting() {
-    if (this.isPulsingOn) {
-      return this.rootStore.PlayerStore.currentFrame % 2 === 0 ? true : false;
-    }
-    return false;
-  }
-
   @computed get playerIcon() {
     if (this.isPlaying) {
       return String.fromCharCode(9632);
