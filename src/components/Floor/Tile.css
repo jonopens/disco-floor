@@ -2,13 +2,13 @@
   border: solid 2px black;
   margin: 1px;
   display: flex;
-  height: 65px;
-  width: 65px;
+  /* height: 65px;
+  width: 65px; */
 }
 
 .dance-floor__tile--mini {
-  height: 55px;
-  width: 55px;
+  /* height: 55px;
+  width: 55px; */
 }
 
 .dance-floor__tile--white {

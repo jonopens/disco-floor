@@ -1,4 +1,7 @@
 .step {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
   height: 585px;
   width: 700px;
 }

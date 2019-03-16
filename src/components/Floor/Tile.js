@@ -49,7 +49,11 @@ class Tile extends Component {
       : this.getTileClass();
     
     return(
-      <div onClick={this.swapTile} className={tileClasses} />
+      <div
+        style={{ width: this.props.size, height: this.props.size }}
+        onClick={this.swapTile}
+        className={tileClasses}
+      />
     )
   }
 }

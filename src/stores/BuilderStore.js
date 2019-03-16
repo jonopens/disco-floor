@@ -33,7 +33,15 @@ export default class BuilderStore {
   }
 
   @action setFloorSize(value) {
-    this.floorDimensions = array;
+    this.floorSize = value;
+    this.frameData = [];
+
+    for (var i = 0; i < value; i++) {
+      this.frameData[i] = [];
+      for (var j = 0; j < value; j++) {
+        this.frameData[i][j] = 1;
+      }
+    }
   }
 
   @action setTileInFrame(address, templateNumber) {

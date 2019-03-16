@@ -8,12 +8,25 @@ import './Floor.css'
 @observer
 class PlayerFloor extends Component {
 
-  render() {
+  aggregatePatterns = () => {
+    const localPatterns = JSON.parse(localStorage.getItem("patterns"));
+    return Object.assign({}, localPatterns, patterns);
+  }
+
+  makeRows = () => {
     const frame = this.props.PlayerStore.currentFrame;
     const pattern = this.props.PlayerStore.selectedPattern;
-    const tileRows = patterns[pattern][frame].map((row, idx) => {
+    const allPatterns = !!localStorage.getItem("patterns")
+      ? this.aggregatePatterns()
+      : patterns;
+
+    return allPatterns[pattern][frame].map((row, idx) => {
       return <TileRow tiles={row} rowNum={idx + 1} key={`tile-row-${idx}`} />
     });
+  }
+
+  render() {
+    const tileRows = this.makeRows();
 
     return(
       <div className="dance-floor">

@@ -10,5 +10,6 @@ const stores = new RootStore();
 ReactDOM.render(
   <Provider {...stores}>
     <App />
-  </Provider>, document.getElementById('base')
+  </Provider>,
+  document.getElementById('base'),
 );

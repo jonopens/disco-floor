@@ -42,7 +42,9 @@ class TileRow extends Component {
   }
 
   makeTiles = (tiles) => {
-    let adjustedTiles = this.determineTiles(tiles)
+    const adjustedTiles = this.determineTiles(tiles);
+    const isPlayer = this.props.AppStore.containerName === 'Player';
+    const tileSize = (isPlayer ? 585 : 495) / tiles.length;
 
     return adjustedTiles.map((tile, idx) => {
       return (
@@ -51,7 +53,7 @@ class TileRow extends Component {
           color={TILE_REFERENCE[tile].color}
           isLit={TILE_REFERENCE[tile].isLit}
           key={`coord-${this.props.rowNum}-${idx}`}
-          style={{  }}
+          size={tileSize}
         />
       );
     });
