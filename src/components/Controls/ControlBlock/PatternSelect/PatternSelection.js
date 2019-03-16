@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { observer, inject } from 'mobx-react';
 import './PatternSelection.css';
-import patterns from '../../data/patterns';
+import patterns from '../../../../data/patterns';
 
 @inject('AppStore', 'PlayerStore')
 @observer

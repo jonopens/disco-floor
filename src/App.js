@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import Header from './components/Header';
-import Container from './components/Container';
+import Header from './components/Common/Header';
+import Container from './components/Common/Container';
 import { inject, observer } from 'mobx-react';
 
 @inject('AppStore', 'PlayerStore')

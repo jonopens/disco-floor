@@ -2,10 +2,10 @@ import React, { Component } from 'react';
 import { observer, inject } from 'mobx-react';
 
 import SpeedControl from './SpeedControls/SpeedControl';
-import PlayControl from './PlayControl';
-import PulseControl from './PulseControl';
-import ColorInvertControl from './ColorInvertControl';
-import PatternSelection from './PatternSelection';
+import PlayControl from './PlayControl/PlayControl';
+import PulseControl from './PulseControl/PulseControl';
+import ColorInvertControl from './ColorInvert/ColorInvertControl';
+import PatternSelection from './PatternSelect/PatternSelection';
 import './ControlBlock.css';
 
 @inject('AppStore', 'PlayerStore')

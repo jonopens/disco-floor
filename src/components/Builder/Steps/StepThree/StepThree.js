@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { inject, observer } from 'mobx-react';
 
-import './Steps.css';
+import '../Steps.css';
 
 @inject('BuilderStore', 'AppStore')
 @observer

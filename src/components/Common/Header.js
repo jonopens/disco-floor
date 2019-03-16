@@ -1,5 +1,5 @@
 import React from 'react';
-import BuilderSwitch from './BuilderSwitch/BuilderSwitch';
+import BuilderSwitch from '../Controls/BuilderSwitch/BuilderSwitch';
 import './Header.css';
 
 const Header = (props) => {

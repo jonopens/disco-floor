@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import { inject, observer } from 'mobx-react';
 
-import BuilderFloor from '../../Floors/BuilderFloor';
-import './Steps.css';
+import BuilderFloor from './BuilderFloor';
+import '../Steps.css';
 
-@inject('BuilderStore', 'AppStore')
+@inject('BuilderStore')
 @observer
 export default class StepTwo extends Component {
   render() {

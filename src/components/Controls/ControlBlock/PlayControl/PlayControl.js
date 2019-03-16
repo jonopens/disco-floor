@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { inject, observer } from 'mobx-react';
-import Button from '../Common/Button';
+import Button from '../../../Common/Button';
 
 @inject('PlayerStore', 'AppStore')
 @observer

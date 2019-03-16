@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { observer, inject } from 'mobx-react';
-import ControlBlock from './ControlBlock/ControlBlock';
-import PlayerFloor from './Floors/PlayerFloor';
-import FloorBuilder from './FloorBuilder/FloorBuilder';
+import ControlBlock from '../Controls/ControlBlock/ControlBlock';
+import PlayerFloor from '../Floor/PlayerFloor';
+import FloorBuilder from '../Builder/FloorBuilder';
 import './Container.css';
 
 @inject('AppStore')
