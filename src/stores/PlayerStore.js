@@ -13,10 +13,9 @@ export default class PlayerStore {
   }
 
   returnInterval() {
-    const numberOfFrames = Object.keys(patterns[this.selectedPattern]).length
     return setInterval(() => {
       this.increasePulseCount();
-      if (this.currentFrame >= (numberOfFrames - 1)) {
+      if (this.currentFrame >= (this.framesInPattern - 1)) {
         this.setCurrentFrame(0);
       } else {
         this.setCurrentFrame(this.currentFrame + 1);
@@ -50,11 +49,18 @@ export default class PlayerStore {
 
   // COMPUTED
 
-  @computed get frameLength() {
+  @computed
+  get framesInPattern() {
+    return Object.keys(patterns[this.selectedPattern]).length
+  }
+
+  @computed
+  get frameLength() {
     return 1000 / this.selectedSpeed;
   }
 
-  @computed get shouldFlipTileLighting() {
+  @computed
+  get shouldFlipTileLighting() {
     if (this.rootStore.AppStore.isPulsingOn) {
       return this.pulseCount % 2 === 0 ? true : false;
     }

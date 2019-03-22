@@ -7,10 +7,10 @@ class SpeedControl extends Component {
   render() {
     return(
       <div className="control-block__item  control-block__item--speed">
-        <SpeedChoice speed="0.5" />
         <SpeedChoice speed="1.0" />
         <SpeedChoice speed="2.0" />
         <SpeedChoice speed="4.0" />
+        <SpeedChoice speed="8.0" />
       </div>
     )
   }
