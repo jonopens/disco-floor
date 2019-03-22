@@ -6,10 +6,10 @@ import PlayControl from './PlayControl/PlayControl';
 import PulseControl from './PulseControl/PulseControl';
 import ColorInvertControl from './ColorInvert/ColorInvertControl';
 import PatternSelection from './PatternSelect/PatternSelection';
-import './ControlBlock.css';
+import './PlayerControls.css';
 
 @inject('AppStore', 'PlayerStore')
-@observer export default class ControlBlock extends Component {
+@observer export default class PlayerControls extends Component {
   render() {
     return (
       <div className="control-block">

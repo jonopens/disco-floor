@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { observer, inject } from 'mobx-react';
-import TileRow from '../../../Floor/TileRow';
-import '../../../Floor/Floor.css'
+import TileRow from './TileRow';
+import './Floor.css'
 
 @inject('BuilderStore')
 @observer
