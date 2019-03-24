@@ -3,7 +3,7 @@ import { inject, observer } from 'mobx-react';
 
 @inject('AppStore')
 @observer
-class BuilderButton extends Component {
+class ModeButton extends Component {
   handleClick = (e) => {
     e.preventDefault();
     this.props.AppStore.setContainerName(this.props.name);
@@ -11,12 +11,12 @@ class BuilderButton extends Component {
 
   render() {
     const selected = this.props.AppStore.isSelectedSwitch(this.props.name)
-      ? 'builder-switch__option--selected'
-      : 'builder-switch__option--not-selected';
+      ? 'mode-switch__option--selected'
+      : 'mode-switch__option--not-selected';
 
     return (
-      <div 
-        className={`builder-switch__option ${selected}`}
+      <div
+        className={`mode-switch__option ${selected}`}
         onClick={this.handleClick}
       >
         <span>{this.props.name}</span>
@@ -25,4 +25,4 @@ class BuilderButton extends Component {
   }
 }
 
-export default BuilderButton;
+export default ModeButton;

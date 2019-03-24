@@ -1,12 +1,12 @@
 import React from 'react';
-import BuilderSwitch from '../Controls/BuilderSwitch/BuilderSwitch';
+import BuilderTopControl from '../Controls/BuilderTopControls/BuilderTopControls';
 import './Header.css';
 
 const Header = (props) => {
   return (
     <React.Fragment>
       <h1 className="header">{props.headerText}</h1>
-      <BuilderSwitch />
+      <BuilderTopControl />
     </React.Fragment>
   )
 }

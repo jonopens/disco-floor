@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Header from './components/Common/Header';
 import Container from './components/Common/Container';
+import ModeSwitch from './components/Controls/ModeSwitch/ModeSwitch';
 import { inject, observer } from 'mobx-react';
 
 @inject('AppStore', 'PlayerStore')
@@ -12,6 +13,7 @@ class App extends Component {
       <React.Fragment>
         <Header headerText="DISCO FLOOR PLAYER & BUILDER" />
         <Container />
+        <ModeSwitch />
       </React.Fragment>
     );
   }
