@@ -6,7 +6,7 @@ export default class BuilderStore {
   @observable patternName = '';
   @observable floorSize = 9; // default;
   @observable currentFrame = 0;
-  @observable workingPattern = [];
+  @observable workingPattern = []; // moving to array for ease of splice
   @observable frameData = [];
   @observable shouldResetBuilderTiles = false;
 
@@ -59,7 +59,7 @@ export default class BuilderStore {
     // add a frame at key of current currentFrame in workingPattern
     // increment currentFrame number
     // set frame data back to all blanks
-    this.workingPattern[this.currentFrame] = this.frameData;
+    this.workingPattern.push(this.frameData);
     this.currentFrame += 1;
     this.clearFrameData();
   }
@@ -82,7 +82,7 @@ export default class BuilderStore {
 
   @computed
   get totalWorkingFrames() {
-    return Object.keys(this.workingPattern).length;
+    return this.workingPattern.length;
   }
 
   @computed
@@ -108,10 +108,6 @@ export default class BuilderStore {
   @computed
   get hasPrevFrame() {
     return this.totalWorkingFrames > 0 && this.currentFrame > 0;
-  }
-
-  getTemplateIndex = (address) => {
-    return this.frameData[address[0]][address[1]];
   }
 
   makeBlankFrame(size) {
