@@ -8,20 +8,20 @@ import './Arrows.css';
 export default class PrevFrameArrow extends Component {
   handleClick = (e) => {
     e.preventDefault();
-    this.props.BuilderStore.previousWorkingFrame();
+    if (this.props.BuilderStore.hasPrevFrame) {
+      this.props.BuilderStore.goToPreviousFrame();
+    }
   }
 
   render() {
-    if (this.props.BuilderStore.hasPrevFrame) {
-      return (
-        <div
-          onClick={this.handleClick}
-          className="arrow arrow__prev"
-        >
-          PREV
-        </div>
-      )
-    }
-    return <div />;
+    const inactiveClass = this.props.BuilderStore.hasPrevFrame ? null : 'arrow__inactive';
+    return (
+      <div
+        onClick={this.handleClick}
+        className={`arrow arrow__prev ${inactiveClass}`}
+      >
+        PREV
+      </div>
+    )
   }
 }

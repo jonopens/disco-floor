@@ -3,7 +3,7 @@ import { observer, inject } from 'mobx-react';
 import './PatternSelection.css';
 import patterns from '../../../../data/patterns';
 
-@inject('AppStore', 'PlayerStore')
+@inject('PlayerStore')
 @observer
 export default class PatternSelection extends Component {
   handleSelectionChange = (e) => {
@@ -24,7 +24,7 @@ export default class PatternSelection extends Component {
         <select
           className="pattern-select__selection"
           onChange={this.handleSelectionChange}
-          disabled={this.props.AppStore.isPlaying}
+          disabled={this.props.PlayerStore.isPlaying}
         >
           {patternOptions}
         </select>

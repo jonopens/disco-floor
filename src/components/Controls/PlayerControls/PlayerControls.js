@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { observer, inject } from 'mobx-react';
 
 import SpeedControl from './SpeedControls/SpeedControl';
 import PlayControl from './PlayControl/PlayControl';
@@ -8,8 +7,7 @@ import ColorInvertControl from './ColorInvert/ColorInvertControl';
 import PatternSelection from './PatternSelect/PatternSelection';
 import './PlayerControls.css';
 
-@inject('AppStore', 'PlayerStore')
-@observer export default class PlayerControls extends Component {
+export default class PlayerControls extends Component {
   render() {
     return (
       <div className="control-block">

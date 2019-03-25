@@ -6,12 +6,13 @@ import './Floor.css'
 @inject('BuilderStore')
 @observer
 class BuilderFloor extends Component {
+
   render() {
     const tileRows = this.props.BuilderStore.frameData.map((row, idx) => {
       return (
         <TileRow
           tiles={row}
-          rowNum={idx + 1}
+          rowNum={idx}
           key={`tile-row-${idx + 1}`}
         />
       );

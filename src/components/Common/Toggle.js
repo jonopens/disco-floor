@@ -1,12 +1,7 @@
 import React, { Component } from 'react';
-import { observer, inject } from 'mobx-react';
 import './Toggle.css';
 
-@inject('AppStore')
-@observer
 class Toggle extends Component {
-
-
   render() {
     return (
       <div className="toggle">

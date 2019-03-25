@@ -3,7 +3,7 @@ import { inject, observer } from 'mobx-react';
 
 import '../Steps.css';
 
-@inject('BuilderStore', 'AppStore')
+@inject('BuilderStore')
 @observer
 export default class StepThree extends Component {
   render() {

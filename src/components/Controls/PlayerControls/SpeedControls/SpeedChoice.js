@@ -2,13 +2,13 @@ import React, { Component } from 'react';
 import { inject, observer } from 'mobx-react';
 import './SpeedChoice.css';
 
-@inject('AppStore','PlayerStore')
+@inject('PlayerStore')
 @observer
 export default class SpeedChoice extends Component {
   changeSpeedSelection = (event) => {
     event.preventDefault();
     this.props.PlayerStore.setSelectedSpeed(+this.props.speed);
-    if(this.props.AppStore.isPlaying) {
+    if(this.props.PlayerStore.isPlaying) {
       this.props.PlayerStore.resetFrameInterval();
     }
   }

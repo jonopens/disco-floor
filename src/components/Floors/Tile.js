@@ -4,12 +4,19 @@ import { inject, observer } from 'mobx-react';
 import { TILE_REFERENCE } from '../../data/reference';
 import './Tile.css'
 
-@inject('AppStore', 'BuilderStore')
+@inject('PlayerStore', 'BuilderStore')
 @observer
 class Tile extends Component {
   state = {
     templateIndex: 1,
   }
+
+  componentDidUpdate(prevProps) {
+    if (this.props.BuilderStore.shouldResetBuilderTiles) {
+      this.setState({ templateIndex: 1 });
+    }
+  }
+
   incOrDecTile = (isShiftPressed) => {
     if (isShiftPressed) {
       const decValue = this.state.templateIndex ===  1 ? 20 : this.state.templateIndex - 1;
@@ -27,7 +34,7 @@ class Tile extends Component {
 
   swapTile = (event) => {
     // if shift key is pressed, send to incOrDecTile
-    if (this.props.AppStore.containerName === 'Builder') {
+    if (this.props.PlayerStore.containerName === 'Builder') {
       this.incOrDecTile(event.shiftKey);
     }
     return false;
@@ -36,7 +43,7 @@ class Tile extends Component {
   getTileClass = (tile = { color: this.props.color, isLit: this.props.isLit }) => {
     const colorClass = `dance-floor__tile--${tile.color}`;
     const isLitClass = `dance-floor__tile--${tile.isLit ? 'lit' : 'unlit'}`;
-    const miniClass = this.props.AppStore.containerName === 'Builder'
+    const miniClass = this.props.PlayerStore.containerName === 'Builder'
       ? 'dance-floor__tile--mini'
       : '';
 
@@ -44,7 +51,7 @@ class Tile extends Component {
   }
 
   render() {
-    const tileClasses = this.props.AppStore.containerName === 'Builder'
+    let tileClasses = this.props.PlayerStore.containerName === 'Builder'
       ? this.getTileClass(TILE_REFERENCE[this.state.templateIndex])
       : this.getTileClass();
     

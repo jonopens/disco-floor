@@ -5,11 +5,11 @@ import PlayerFloor from '../Floors/PlayerFloor';
 import FloorBuilder from '../Builder/FloorBuilder';
 import './Container.css';
 
-@inject('AppStore')
+@inject('PlayerStore')
 @observer
 class Container extends Component {
   render() {
-    if (this.props.AppStore.containerName === 'Player') {
+    if (this.props.PlayerStore.containerName === 'Player') {
       return (
         <div className="container">
           <PlayerControls />

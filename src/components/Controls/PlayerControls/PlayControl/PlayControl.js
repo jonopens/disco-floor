@@ -2,15 +2,15 @@ import React, { Component } from 'react';
 import { inject, observer } from 'mobx-react';
 import Button from '../../../Common/Button';
 
-@inject('PlayerStore', 'AppStore')
+@inject('PlayerStore')
 @observer
 export default class PlayControl extends Component {
   togglePlayerState = (event) => {
     event.preventDefault();
-    const { AppStore, PlayerStore } = this.props;
+    const { PlayerStore } = this.props;
     
-    AppStore.setIsPlaying(!AppStore.isPlaying);
-    if (AppStore.isPlaying) {
+    PlayerStore.setIsPlaying(!PlayerStoore.isPlaying);
+    if (PlayerStoore.isPlaying) {
       PlayerStore.resetFrameInterval();
     } else {
       clearInterval(PlayerStore.frameInterval);
@@ -18,13 +18,13 @@ export default class PlayControl extends Component {
   }
 
   render() {
-    const { AppStore } = this.props;
+    const { PlayerStore } = this.props;
     return(
       <div className="control-block__item  control-block__item--play">
         <Button
           handleClick={this.togglePlayerState}
-          buttonClass={AppStore.playerClassName}
-          buttonText={AppStore.playerIcon}
+          buttonClass={PlayerStore.playerClassName}
+          buttonText={PlayerStore.playerIcon}
         />
       </div>
     )

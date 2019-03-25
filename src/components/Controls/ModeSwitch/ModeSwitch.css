@@ -13,7 +13,7 @@
   align-items: center;
   box-shadow: 2px 3px gray;
   border-radius: 5px;
-  margin: 8px;
+  margin: 15px 19px;
   width: 60px;
   height: 30px;
   border: solid 2px black;
@@ -22,13 +22,13 @@
 
 .mode-switch__header {
   display: block;
-  margin: 20px 0;
+  margin: 15px;
 }
 
 .mode-switch__option--not-selected {
   background-color: black;
   color: white;
-  margin: 5px 8px 11px 6px;
+  margin: 15px 8px 15px 17px;
 }
 
 .mode-switch__option--selected {

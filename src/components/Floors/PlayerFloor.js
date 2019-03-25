@@ -21,7 +21,7 @@ class PlayerFloor extends Component {
       : patterns;
 
     return allPatterns[pattern][frame].map((row, idx) => {
-      return <TileRow tiles={row} rowNum={idx + 1} key={`tile-row-${idx}`} />
+      return <TileRow tiles={row} rowNum={idx} key={`tile-row-${idx}`} />
     });
   }
 

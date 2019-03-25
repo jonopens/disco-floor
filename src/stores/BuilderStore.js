@@ -2,27 +2,20 @@ import { observable, action, computed } from 'mobx';
 
 export default class BuilderStore {
 
-  blankFrame = [
-    [1, 1, 1, 1, 1, 1, 1, 1, 1],
-    [1, 1, 1, 1, 1, 1, 1, 1, 1],
-    [1, 1, 1, 1, 1, 1, 1, 1, 1],
-    [1, 1, 1, 1, 1, 1, 1, 1, 1],
-    [1, 1, 1, 1, 1, 1, 1, 1, 1],
-    [1, 1, 1, 1, 1, 1, 1, 1, 1],
-    [1, 1, 1, 1, 1, 1, 1, 1, 1],
-    [1, 1, 1, 1, 1, 1, 1, 1, 1],
-    [1, 1, 1, 1, 1, 1, 1, 1, 1]
-  ]
-
   @observable builderStep = 1; // values from 1 to 3 ONLY
   @observable patternName = '';
   @observable floorSize = 9; // default;
-  @observable workingFrame = 0;
-  @observable workingPattern = {};
-  @observable frameData = this.blankFrame;
+  @observable currentFrame = 0;
+  @observable workingPattern = [];
+  @observable frameData = [];
+  @observable shouldResetBuilderTiles = false;
 
   constructor(rootStore) {
     this.rootStore = rootStore;
+  }
+
+  @action setShouldResetBuilderTiles(bool) {
+    this.shouldResetBuilderTiles = bool;
   }
 
   @action setBuilderStep(step) {
@@ -37,14 +30,7 @@ export default class BuilderStore {
 
   @action setFloorSize(value) {
     this.floorSize = value;
-    this.frameData = [];
-
-    for (var i = 0; i < value; i++) {
-      this.frameData[i] = [];
-      for (var j = 0; j < value; j++) {
-        this.frameData[i][j] = 1;
-      }
-    }
+    this.frameData = this.makeBlankFrame(value);
   }
 
   @action setTileInFrame(address, templateNumber) {
@@ -52,41 +38,46 @@ export default class BuilderStore {
   }
 
   @action clearFrameData() {
-    this.frameData = this.blankFrame;
+    this.frameData = this.makeBlankFrame(this.floorSize);
   }
 
-  @action nextWorkingFrame() {
-    this.workingFrame += 1;
+  @action goToNextFrame() {
+    this.currentFrame += 1;
     if (this.hasNextFrame) {
-      this.frameData = this.workingPattern[this.workingFrame];
+      this.frameData = this.workingPattern[this.currentFrame];
     }
   }
 
-  @action previousWorkingFrame() {
-    this.workingFrame -= 1;
+  @action goToPreviousFrame() {
+    this.currentFrame -= 1;
     if (this.hasPrevFrame) {
-      this.frameData = this.workingPattern[this.workingFrame];
+      this.frameData = this.workingPattern[this.currentFrame];
     }
   }
 
-  @action addWorkingFrame() {
-    // add a frame at key of current workingFrame in workingPattern
-    // increment workingFrame number
+  @action addFrameToPattern() {
+    // add a frame at key of current currentFrame in workingPattern
+    // increment currentFrame number
     // set frame data back to all blanks
-    this.workingPattern[this.workingFrame] = this.frameData;
-    this.workingFrame += 1;
+    this.workingPattern[this.currentFrame] = this.frameData;
+    this.currentFrame += 1;
     this.clearFrameData();
   }
 
-  @action removeWorkingFrame(frame) {
-    // remove a frame at key of current workingFrame in workingPattern
-    // decrement workingFrame number
+  @action removeFrameFromPattern() {
+    this.workingPattern = this.workingPattern.splice(this.currentFrame, 1);
+    if (this.currentFrame === this.totalWorkingFrames) {
+      this.currentFrame -= 1;
+    }
+    this.clearFrameData();
   }
 
-  @action resetWorkingPattern(callback) {
+  @action resetWorkingPattern() {
     // do we want to store this locally to later retrieve it?
     // callback(this.workingPattern) <<=======
     this.workingPattern = {};
+    this.currentFrame = 0;
+    this.clearFrameData();
   }
 
   @computed
@@ -101,21 +92,38 @@ export default class BuilderStore {
 
   @computed
   get nextFrame() {
-    return this.workingPattern[this.workingFrame + 1]
+    return this.workingPattern[this.currentFrame + 1]
   }
   
   @computed
   get previousFrame() {
-    return this.workingPattern[this.workingFrame - 1]
+    return this.workingPattern[this.currentFrame - 1]
   }
   
   @computed
   get hasNextFrame() {
-    return this.totalWorkingFrames > 0 && this.workingFrame < this.totalWorkingFrames;
+    return this.totalWorkingFrames > 0 && this.currentFrame < this.totalWorkingFrames;
   }
 
   @computed
   get hasPrevFrame() {
-    return this.totalWorkingFrames > 0 && this.workingFrame > 0;
+    return this.totalWorkingFrames > 0 && this.currentFrame > 0;
+  }
+
+  getTemplateIndex = (address) => {
+    return this.frameData[address[0]][address[1]];
+  }
+
+  makeBlankFrame(size) {
+    const matrix = [];
+
+    for (var i = 0; i < size; i++) {
+      matrix[i] = [];
+      for (var j = 0; j < size; j++) {
+        matrix[i][j] = 1;
+      }
+    }
+
+    return matrix;
   }
 }

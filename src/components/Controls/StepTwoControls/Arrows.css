@@ -10,3 +10,7 @@
 .arrow__next {
   /*  */
 }
+
+.arrow__inactive {
+  color: gray;
+}

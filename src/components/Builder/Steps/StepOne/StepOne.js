@@ -4,9 +4,14 @@ import FloorSizeSelection from './FloorSizeSelection';
 
 import '../Steps.css';
 
-@inject('BuilderStore', 'AppStore')
+@inject('BuilderStore')
 @observer
 export default class StepOne extends Component {
+
+  componentDidMount() {
+    this.props.BuilderStore.setFloorSize(9);
+  }
+
   makeFloorSizeSelections = () => {
     return [9, 10, 11, 13].map((size, idx) => {
       return <FloorSizeSelection key={`size-${idx + 1}`} size={size} />;

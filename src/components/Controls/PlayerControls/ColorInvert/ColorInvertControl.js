@@ -2,11 +2,11 @@ import React, { Component } from 'react';
 import { observer, inject } from 'mobx-react';
 import Toggle from '../../../Common/Toggle';
 
-@inject('AppStore', 'PlayerStore')
+@inject('PlayerStore')
 @observer
 class ColorInvertControl extends Component {
   toggleColorInversion = () => {
-    this.props.AppStore.setIsColorInverted(!this.props.AppStore.isColorInverted);
+    this.props.PlayerStore.setIsColorInverted(!this.props.PlayerStore.isColorInverted);
   }
 
   render() {
@@ -16,7 +16,7 @@ class ColorInvertControl extends Component {
           name="color-invert"
           title="Invert Colors"
           toggleAction={this.toggleColorInversion}
-          toggled={this.props.AppStore.isColorInverted}
+          toggled={this.props.PlayerStore.isColorInverted}
         />
       </div>
     )

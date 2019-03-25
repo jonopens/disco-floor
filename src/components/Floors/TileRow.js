@@ -5,7 +5,7 @@ import { TILE_REFERENCE } from '../../data/reference';
 import Tile from './Tile';
 import './TileRow.css';
 
-@inject('AppStore', 'PlayerStore')
+@inject('PlayerStore')
 @observer
 class TileRow extends Component {
   remapTileNumbers = (tiles, callback) => {
@@ -13,7 +13,12 @@ class TileRow extends Component {
   }
 
   determineTiles = (tiles) => {
-    const { isPulsingOn, isColorInverted } = this.props.AppStore;
+    if (this.props.PlayerStore.containerName === 'Builder') {
+      // if we're in the builder, just use the tiles we're given
+      return tiles;
+    }
+
+    const { isPulsingOn, isColorInverted } = this.props.PlayerStore;
     const {
       shouldFlipTileLighting,
       pulseAndInvert,
@@ -42,8 +47,8 @@ class TileRow extends Component {
   }
 
   makeTiles = (tiles) => {
+    const isPlayer = this.props.PlayerStore.containerName === 'Player';
     const adjustedTiles = this.determineTiles(tiles);
-    const isPlayer = this.props.AppStore.containerName === 'Player';
     const tileSize = (isPlayer ? 585 : 495) / tiles.length;
 
     return adjustedTiles.map((tile, idx) => {

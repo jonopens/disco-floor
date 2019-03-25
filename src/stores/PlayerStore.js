@@ -7,44 +7,59 @@ export default class PlayerStore {
   @observable currentFrame = 0;
   @observable frameInterval = null;
   @observable pulseCount = 0;
+  @observable isColorInverted = false;
+  @observable isLastFrame = false;
+  @observable isPulsingOn = false;
+  @observable isPlaying = false;
+  @observable containerName = 'Player';
 
   constructor(rootStore) {
     this.rootStore = rootStore;
   }
-
-  returnInterval() {
-    return setInterval(() => {
-      this.increasePulseCount();
-      if (this.currentFrame >= (this.framesInPattern - 1)) {
-        this.setCurrentFrame(0);
-      } else {
-        this.setCurrentFrame(this.currentFrame + 1);
-      }
-    }, this.frameLength);
-  }
-
+  
   @action setSelectedPattern(pattern) {
     this.selectedPattern = pattern;
     this.pulseCount = 0;
   }
-
+  
   @action setSelectedSpeed(speed) {
     this.selectedSpeed = speed;
   }
-
+  
   @action setCurrentFrame(frameNumber) {
     this.currentFrame = frameNumber;
   }
-
+  
   @action resetFrameInterval() {
     if (!!this.frameInterval) {
       clearInterval(this.frameInterval);
     }
     this.frameInterval = this.returnInterval();
   }
-
+  
   @action increasePulseCount() {
     this.pulseCount = this.pulseCount + 1;
+  }
+  
+
+  @action setIsColorInverted(bool) {
+    this.isColorInverted = bool;
+  }
+
+  @action setIsLastFrame(bool) {
+    this.isLastFrame = bool;
+  }
+
+  @action setIsPulsingOn(bool) {
+    this.isPulsingOn = bool;
+  }
+
+  @action setIsPlaying(bool) {
+    this.isPlaying = bool;
+  }
+
+  @action setContainerName(text) {
+    this.containerName = text;
   }
 
   // COMPUTED
@@ -61,13 +76,42 @@ export default class PlayerStore {
 
   @computed
   get shouldFlipTileLighting() {
-    if (this.rootStore.AppStore.isPulsingOn) {
+    if (this.isPulsingOn) {
       return this.pulseCount % 2 === 0 ? true : false;
     }
     return false;
   }
 
+  @computed get playerIcon() {
+    if (this.isPlaying) {
+      return String.fromCharCode(9632);
+    }
+    return String.fromCharCode(9654);
+  }
+
+  @computed get playerClassName() {
+    if (this.isPlaying) {
+      return 'button__play-button button__play-button--stopped';
+    }
+    return 'button__play-button button__play-button--playing';
+  }
+
   // HELPERS
+
+  isSelectedSwitch(name) {
+    return computed(() => this.containerName === name).get();
+  }
+  
+  returnInterval() {
+    return setInterval(() => {
+      this.increasePulseCount();
+      if (this.currentFrame >= (this.framesInPattern - 1)) {
+        this.setCurrentFrame(0);
+      } else {
+        this.setCurrentFrame(this.currentFrame + 1);
+      }
+    }, this.frameLength);
+  }
 
   invertColor = (tileNum) => {
     switch (tileNum) {
