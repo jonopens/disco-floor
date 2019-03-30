@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { inject, observer } from 'mobx-react';
-import FloorSizeSelection from './FloorSizeSelection';
+import FloorSizeSelection from '../../../Controls/FloorSizeSelection/FloorSizeSelection';
 
 import '../Steps.css';
 

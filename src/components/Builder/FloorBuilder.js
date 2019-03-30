@@ -4,7 +4,7 @@ import { observer, inject } from 'mobx-react';
 import StepOne from './Steps/StepOne/StepOne';
 import StepTwo from './Steps/StepTwo/StepTwo';
 import StepThree from './Steps/StepThree/StepThree';
-import StepChangeSwitch from './StepChange/StepChangeSwitch';
+import StepChangeSwitch from '../Controls/StepChange/StepChangeSwitch';
 import './FloorBuilder.css';
 
 @inject('BuilderStore')
