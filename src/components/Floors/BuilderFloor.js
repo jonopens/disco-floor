@@ -6,9 +6,8 @@ import './Floor.css'
 @inject('BuilderStore')
 @observer
 class BuilderFloor extends Component {
-
   render() {
-    const tileRows = this.props.BuilderStore.frameData.map((row, idx) => {
+    const tileRows = this.props.BuilderStore.top.map((row, idx) => {
       return (
         <TileRow
           tiles={row}

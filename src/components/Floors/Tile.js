@@ -7,31 +7,20 @@ import './Tile.css'
 @inject('PlayerStore', 'BuilderStore')
 @observer
 class Tile extends Component {
-  state = {
-    templateIndex: 1,
-  }
-
-  componentDidUpdate(prevProps) {
-    if (
-      this.props.BuilderStore.shouldResetBuilderTiles 
-        && this.state.templateIndex !== 1
-    ) {
-      this.setState({ templateIndex: 1 });
-    }
-  }
 
   incOrDecTile = (isShiftPressed) => {
+    const tileRef = this.props.BuilderStore.tileIndexAtAddress(this.props.frameAddress);
+    let newValue;
+
     if (isShiftPressed) {
-      const decValue = this.state.templateIndex ===  1 ? 20 : this.state.templateIndex - 1;
-      this.setState({ templateIndex: decValue });
+      newValue = tileRef ===  1 ? 20 : tileRef - 1;
     } else {
-      const incValue = this.state.templateIndex === 20 ? 1 : this.state.templateIndex + 1;
-      this.setState({ templateIndex: incValue });
+      newValue = tileRef === 20 ? 1 : tileRef + 1;
     }
     
     this.props.BuilderStore.setTileInFrame(
       this.props.frameAddress,
-      this.state.templateIndex
+      newValue
     );
   }
 
@@ -54,9 +43,10 @@ class Tile extends Component {
   }
 
   render() {
-    let tileClasses = this.props.PlayerStore.showingPlayer
+    const tileRef = this.props.BuilderStore.tileIndexAtAddress(this.props.frameAddress);
+    const tileClasses = this.props.PlayerStore.showingPlayer
       ? this.getTileClass()
-      : this.getTileClass(TILE_REFERENCE[this.state.templateIndex]);
+      : this.getTileClass(TILE_REFERENCE[tileRef]);
     
     return(
       <div

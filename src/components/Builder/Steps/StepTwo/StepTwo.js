@@ -10,15 +10,13 @@ import '../Steps.css';
 @observer
 export default class StepTwo extends Component {
   render() {
-    if (this.props.BuilderStore.builderStep === 2) {
-      return (
-        <div className="step step__two">
-          <PrevFrameArrow />
-          <BuilderFloor />
-          <NextFrameArrow />
-        </div>
-      );
-    }
-    return null;
+    return (
+      <div className="step step__two">
+        <PrevFrameArrow />
+        <BuilderFloor />
+        <NextFrameArrow />
+      </div>
+    );
+
   }
 }

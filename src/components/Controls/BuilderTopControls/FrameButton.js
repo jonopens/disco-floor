@@ -23,7 +23,9 @@ class FrameButton extends Component {
         this.props.BuilderStore.addFrameToPattern();
         break;
       case "remove":
-        this.props.BuilderStore.removeFrameFromPattern();
+        if (this.props.BuilderStore.totalWorkingFrame > 1) {
+          this.props.BuilderStore.removeFrameFromPattern();
+        }
         break;
       default:
         const confirmed = confirm('Are you sure you want to reset your pattern?');
@@ -37,7 +39,6 @@ class FrameButton extends Component {
 
   render() {
     const text = this.getButtonText();
-
     return (
       <div
         className="builder-top-controls__button"

@@ -9,6 +9,7 @@ export default class FloorSizeSelection extends Component {
   handleClick = (e) => {
     if (this.props.size !== this.props.BuilderStore.floorSize) {
       this.props.BuilderStore.setFloorSize(this.props.size);
+      this.props.BuilderStore.addFirstFrame(this.props.size);
       return true;
     }
     return false;

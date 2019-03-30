@@ -21,13 +21,10 @@ export default class StepOne extends Component {
   render() {
     const floorSizes = this.makeFloorSizeSelections();
 
-    if (this.props.BuilderStore.builderStep === 1) {
-      return (
-        <div className="step step__one">
-          {floorSizes}
-        </div>
-      );
-    }
-    return null;
+    return (
+      <div className="step step__one">
+        {floorSizes}
+      </div>
+    );
   }
 }
