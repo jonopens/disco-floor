@@ -13,13 +13,14 @@ class TileRow extends Component {
   }
 
   determineTiles = (tiles) => {
-    if (this.props.PlayerStore.containerName === 'Builder') {
-      // if we're in the builder, just use the tiles we're given
+    if (!this.props.PlayerStore.showingPlayer) {
+      // if we're not in the player/in the builder, just use the tiles we're given
       return tiles;
     }
 
-    const { isPulsingOn, isColorInverted } = this.props.PlayerStore;
     const {
+      isPulsingOn,
+      isColorInverted,
       shouldFlipTileLighting,
       pulseAndInvert,
       invertColor,
@@ -47,9 +48,8 @@ class TileRow extends Component {
   }
 
   makeTiles = (tiles) => {
-    const isPlayer = this.props.PlayerStore.containerName === 'Player';
+    const tileSize = (this.props.PlayerStore.showingPlayer ? 585 : 495) / tiles.length;
     const adjustedTiles = this.determineTiles(tiles);
-    const tileSize = (isPlayer ? 585 : 495) / tiles.length;
 
     return adjustedTiles.map((tile, idx) => {
       return (

@@ -6,6 +6,7 @@ import { inject, observer } from 'mobx-react';
 class ModeButton extends Component {
   handleClick = (e) => {
     e.preventDefault();
+    this.props.PlayerStore.setShowingPlayer(!this.props.PlayerStore.showingPlayer);
     this.props.PlayerStore.setContainerName(this.props.name);
   }
 

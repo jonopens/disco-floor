@@ -9,8 +9,8 @@ export default class PlayControl extends Component {
     event.preventDefault();
     const { PlayerStore } = this.props;
     
-    PlayerStore.setIsPlaying(!PlayerStoore.isPlaying);
-    if (PlayerStoore.isPlaying) {
+    PlayerStore.setIsPlaying(!PlayerStore.isPlaying);
+    if (PlayerStore.isPlaying) {
       PlayerStore.resetFrameInterval();
     } else {
       clearInterval(PlayerStore.frameInterval);

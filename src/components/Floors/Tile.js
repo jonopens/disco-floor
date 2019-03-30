@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { inject, observer } from 'mobx-react';
-
 import { TILE_REFERENCE } from '../../data/reference';
+
 import './Tile.css'
 
 @inject('PlayerStore', 'BuilderStore')
@@ -12,7 +12,10 @@ class Tile extends Component {
   }
 
   componentDidUpdate(prevProps) {
-    if (this.props.BuilderStore.shouldResetBuilderTiles) {
+    if (
+      this.props.BuilderStore.shouldResetBuilderTiles 
+        && this.state.templateIndex !== 1
+    ) {
       this.setState({ templateIndex: 1 });
     }
   }
@@ -25,7 +28,7 @@ class Tile extends Component {
       const incValue = this.state.templateIndex === 20 ? 1 : this.state.templateIndex + 1;
       this.setState({ templateIndex: incValue });
     }
-
+    
     this.props.BuilderStore.setTileInFrame(
       this.props.frameAddress,
       this.state.templateIndex
@@ -34,26 +37,26 @@ class Tile extends Component {
 
   swapTile = (event) => {
     // if shift key is pressed, send to incOrDecTile
-    if (this.props.PlayerStore.containerName === 'Builder') {
-      this.incOrDecTile(event.shiftKey);
+    if (this.props.PlayerStore.showingPlayer) {
+      return false;
     }
-    return false;
+    this.incOrDecTile(event.shiftKey);
   }
 
   getTileClass = (tile = { color: this.props.color, isLit: this.props.isLit }) => {
     const colorClass = `dance-floor__tile--${tile.color}`;
     const isLitClass = `dance-floor__tile--${tile.isLit ? 'lit' : 'unlit'}`;
-    const miniClass = this.props.PlayerStore.containerName === 'Builder'
-      ? 'dance-floor__tile--mini'
-      : '';
+    const miniClass = this.props.PlayerStore.showingPlayer
+      ? ''
+      : 'dance-floor__tile--mini';
 
     return `dance-floor__tile ${miniClass} ${colorClass} ${isLitClass}`;
   }
 
   render() {
-    let tileClasses = this.props.PlayerStore.containerName === 'Builder'
-      ? this.getTileClass(TILE_REFERENCE[this.state.templateIndex])
-      : this.getTileClass();
+    let tileClasses = this.props.PlayerStore.showingPlayer
+      ? this.getTileClass()
+      : this.getTileClass(TILE_REFERENCE[this.state.templateIndex]);
     
     return(
       <div

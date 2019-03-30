@@ -8,14 +8,9 @@ export default class BuilderStore {
   @observable currentFrame = 0;
   @observable workingPattern = []; // moving to array for ease of splice
   @observable frameData = [];
-  @observable shouldResetBuilderTiles = false;
 
   constructor(rootStore) {
     this.rootStore = rootStore;
-  }
-
-  @action setShouldResetBuilderTiles(bool) {
-    this.shouldResetBuilderTiles = bool;
   }
 
   @action setBuilderStep(step) {
@@ -81,6 +76,11 @@ export default class BuilderStore {
   }
 
   @computed
+  get shouldShowTopControls() {
+    return this.builderStep === 2 && !this.rootStore.PlayerStore.showingPlayer;
+  }
+
+  @computed
   get totalWorkingFrames() {
     return this.workingPattern.length;
   }
@@ -108,6 +108,11 @@ export default class BuilderStore {
   @computed
   get hasPrevFrame() {
     return this.totalWorkingFrames > 0 && this.currentFrame > 0;
+  }
+
+  @computed
+  get shouldResetBuilderTiles() {
+    return this.currentFrame === this.totalWorkingFrames && this.totalWorkingFrames > 0;
   }
 
   makeBlankFrame(size) {

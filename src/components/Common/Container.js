@@ -9,7 +9,7 @@ import './Container.css';
 @observer
 class Container extends Component {
   render() {
-    if (this.props.PlayerStore.containerName === 'Player') {
+    if (this.props.PlayerStore.showingPlayer) {
       return (
         <div className="container">
           <PlayerControls />

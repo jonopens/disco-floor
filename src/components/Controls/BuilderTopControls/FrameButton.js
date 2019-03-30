@@ -17,29 +17,22 @@ class FrameButton extends Component {
     }
   }
 
-  getClickHandler = () => {
+  handleClick = () => {
     switch (this.props.type) {
       case "add":
-        return () => { 
-          this.props.BuilderStore.addFrameToPattern();
-        };
+        this.props.BuilderStore.addFrameToPattern();
+        break;
       case "remove":
-        return () => { this.props.BuilderStore.removeFrameFromPattern() };
+        this.props.BuilderStore.removeFrameFromPattern();
+        break;
       default:
-        return () => { 
-          const confirmed = confirm('Are you sure you want to reset your pattern?');
-          if (confirmed) {
-            this.props.BuilderStore.resetWorkingPattern();
-            return;
-          }
-          return false;
-        };
+        const confirmed = confirm('Are you sure you want to reset your pattern?');
+        if (confirmed) {
+          this.props.BuilderStore.resetWorkingPattern();
+          break;
+        }
+        return false;
     }
-  }
-  
-  wrapClickHandler = (event) => {
-    event.preventDefault();
-    this.getClickHandler()();
   }
 
   render() {
@@ -48,7 +41,7 @@ class FrameButton extends Component {
     return (
       <div
         className="builder-top-controls__button"
-        onClick={this.wrapClickHandler}
+        onClick={this.handleClick}
       >
        {text}
       </div>

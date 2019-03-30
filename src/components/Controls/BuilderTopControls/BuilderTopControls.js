@@ -8,15 +8,15 @@ import './BuilderTopControls.css';
 @observer
 class BuilderTopControls extends Component {
   render() {
-    const topControls = this.props.BuilderStore.builderStep !== 2
-        ? null
-        : (
+    const topControls = this.props.BuilderStore.shouldShowTopControls
+        ? (
           <React.Fragment>
             <FrameButton type="add" />
             <FrameButton type="remove" />
             <FrameButton type="reset" />
           </React.Fragment>
-        );
+        )
+        : null;
 
     return (
       <div className="builder-top-controls">

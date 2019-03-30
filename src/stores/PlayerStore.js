@@ -3,6 +3,7 @@ import patterns from '../data/patterns';
 
 export default class PlayerStore {
   @observable selectedPattern = 'default';
+  @observable containerName = 'Player';
   @observable selectedSpeed = 1.0;
   @observable currentFrame = 0;
   @observable frameInterval = null;
@@ -11,7 +12,7 @@ export default class PlayerStore {
   @observable isLastFrame = false;
   @observable isPulsingOn = false;
   @observable isPlaying = false;
-  @observable containerName = 'Player';
+  @observable showingPlayer = true;
 
   constructor(rootStore) {
     this.rootStore = rootStore;
@@ -22,6 +23,10 @@ export default class PlayerStore {
     this.pulseCount = 0;
   }
   
+  @action setContainerName(name) {
+    this.containerName = name;
+  }
+
   @action setSelectedSpeed(speed) {
     this.selectedSpeed = speed;
   }
@@ -58,8 +63,8 @@ export default class PlayerStore {
     this.isPlaying = bool;
   }
 
-  @action setContainerName(text) {
-    this.containerName = text;
+  @action setShowingPlayer(bool) {
+    this.showingPlayer = bool;
   }
 
   // COMPUTED
