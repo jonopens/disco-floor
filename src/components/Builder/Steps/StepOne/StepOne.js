@@ -9,7 +9,9 @@ import '../Steps.css';
 export default class StepOne extends Component {
 
   componentDidMount() {
-    this.props.BuilderStore.setFloorSize(9);
+    if (this.props.BuilderStore.totalWorkingFrames > 1) {
+      this.props.BuilderStore.setFloorSize(9);
+    }
   }
 
   makeFloorSizeSelections = () => {
