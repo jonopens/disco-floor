@@ -4,10 +4,10 @@ export default class BuilderStore {
 
   @observable patternName = '';
   @observable isFirstBuilderView = true;
-  @observable builderStep = 1; // values from 1 to 3 ONLY
+  @observable builderStep = 1; // values from 1 to 3
   @observable floorSize = 9; // default;
   @observable currentFrame = 0;
-  @observable workingPattern = []; // moving to array for ease of splice
+  @observable workingPattern = [];
 
   constructor(rootStore) {
     this.rootStore = rootStore;
@@ -17,10 +17,6 @@ export default class BuilderStore {
     this.workingPattern.push(
       this.makeBlankFrame(this.floorSize),
     )
-  }
-
-  @action addFirstFrame(size = 9) {
-    this.workingPattern[0] = this.makeBlankFrame(size);
   }
   
   @action setPatternName(name) {
