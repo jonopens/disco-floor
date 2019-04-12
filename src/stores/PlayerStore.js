@@ -71,7 +71,8 @@ export default class PlayerStore {
 
   @computed
   get framesInPattern() {
-    return Object.keys(patterns[this.selectedPattern]).length
+    const allPatterns = this.aggregatePatterns();
+    return Object.keys(allPatterns[this.selectedPattern]).length
   }
 
   @computed
@@ -102,6 +103,11 @@ export default class PlayerStore {
   }
 
   // HELPERS
+
+  aggregatePatterns = () => {
+    const localPatterns = JSON.parse(localStorage.getItem("patterns"));
+    return Object.assign({}, patterns, localPatterns);
+  }
 
   isSelectedSwitch(name) {
     return computed(() => this.containerName === name).get();

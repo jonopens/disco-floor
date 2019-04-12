@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { observer, inject } from 'mobx-react';
 import './PatternSelection.css';
-import patterns from '../../../../data/patterns';
 
 @inject('PlayerStore')
 @observer
@@ -14,7 +13,8 @@ export default class PatternSelection extends Component {
     this.props.PlayerStore.setSelectedPattern(e.target.value);
   }
   render() {
-    const patternOptions = Object.keys(patterns).map((pattern, idx) => {
+    const allPatterns = this.props.PlayerStore.aggregatePatterns();
+    const patternOptions = Object.keys(allPatterns).map((pattern, idx) => {
       return <option value={pattern} key={`pattern-${pattern}-${idx}`}>{pattern}</option>
     });
 

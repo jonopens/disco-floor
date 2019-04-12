@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import { inject, observer } from 'mobx-react';
 
-import BuilderFloor from '../../../Floors/BuilderFloor';
-import PrevFrameArrow from '../../../Controls/StepTwoControls/PrevFrameArrow';
-import NextFrameArrow from '../../../Controls/StepTwoControls/NextFrameArrow';
-import '../Steps.css';
+import BuilderFloor from '../../Floors/BuilderFloor';
+import PrevFrameArrow from '../../Controls/StepTwoControls/PrevFrameArrow';
+import NextFrameArrow from '../../Controls/StepTwoControls/NextFrameArrow';
+import './Steps.css';
 
 @inject('BuilderStore')
 @observer

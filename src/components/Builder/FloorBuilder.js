@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import { observer, inject } from 'mobx-react';
 
-import StepOne from './Steps/StepOne/StepOne';
-import StepTwo from './Steps/StepTwo/StepTwo';
-import StepThree from './Steps/StepThree/StepThree';
+import StepOne from './Steps/StepOne';
+import StepTwo from './Steps/StepTwo';
+import StepThree from './Steps/StepThree';
 import StepChangeSwitch from '../Controls/StepChange/StepChangeSwitch';
 import './FloorBuilder.css';
 

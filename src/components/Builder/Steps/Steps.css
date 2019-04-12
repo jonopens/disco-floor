@@ -5,16 +5,16 @@
   height: 585px;
   width: 700px;
 }
-.step__one {
 
+.step__one {
+  margin: 8px 0 50px 0;
 }
 
 .step__two {
-  display: flex;
-  flex-flow: row wrap;
   justify-content: space-between;
 }
 
 .step__three {
-
+  justify-content: center;
+  margin: 8px 0 50px 0;
 }

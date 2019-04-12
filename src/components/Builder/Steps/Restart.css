@@ -1,0 +1,13 @@
+.restart {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: space-evenly;
+}
+
+.restart__button {
+  font: 36px sans-serif;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+  width: 360px;
+}

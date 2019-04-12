@@ -10,18 +10,18 @@ class BuilderTopControls extends Component {
   render() {
     const topControls = this.props.BuilderStore.shouldShowTopControls
         ? (
-          <React.Fragment>
+          <div className="builder-top-controls">
             <FrameButton type="add" />
             <FrameButton type="remove" />
             <FrameButton type="reset" />
-          </React.Fragment>
+          </div>
         )
         : null;
 
     return (
-      <div className="builder-top-controls">
+      <React.Fragment>
         {topControls}
-      </div>
+      </React.Fragment>
     );
   }
 }

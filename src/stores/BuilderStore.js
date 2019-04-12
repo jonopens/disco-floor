@@ -8,6 +8,7 @@ export default class BuilderStore {
   @observable floorSize = 9; // default;
   @observable currentFrame = 0;
   @observable workingPattern = [];
+  @observable hasSavedPattern = false;
 
   constructor(rootStore) {
     this.rootStore = rootStore;
@@ -72,6 +73,10 @@ export default class BuilderStore {
     this.currentFrame = 0;
   }
 
+  @action setHasSavedPattern(bool) {
+    this.hasSavedPattern = bool;
+  }
+
   @computed
   get top() {
     return this.workingPattern[this.currentFrame];
@@ -110,6 +115,15 @@ export default class BuilderStore {
   @computed
   get hasPrevFrame() {
     return this.totalWorkingFrames > 1 && this.currentFrame > 0;
+  }
+
+  @computed
+  get patternAsObject() {
+    const patternObj = {};
+    this.workingPattern.forEach((frame, idx) => {
+      patternObj[idx] = frame;
+    });
+    return patternObj;
   }
 
   tileIndexAtAddress(address) {

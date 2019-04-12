@@ -1,0 +1,33 @@
+.pattern-form {
+  margin: 60px 0 0 0;
+  display: flex;
+  flex-flow: column wrap;
+  width: 500px;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.pattern-form__chunk {
+ display: flex;
+ flex-flow: column wrap;
+}
+
+.pattern-form__label {
+  margin-bottom: 20px;
+  font: 24px sans-serif;
+}
+
+.pattern-form__input {
+  width: 380px;
+  height: 40px;
+  text-align: center;
+  font: 24px sans-serif;
+  justify-content: space-between;
+}
+
+.pattern-form__button {
+  width: 200px;
+  height: 40px;
+  font: 20px sans-serif;
+  background-color: white;
+}

@@ -7,19 +7,13 @@ import './Floor.css'
 @inject('PlayerStore')
 @observer
 class PlayerFloor extends Component {
-
-  aggregatePatterns = () => {
-    const localPatterns = JSON.parse(localStorage.getItem("patterns"));
-    return Object.assign({}, localPatterns, patterns);
-  }
-
   makeRows = () => {
     const frame = this.props.PlayerStore.currentFrame;
     const pattern = this.props.PlayerStore.selectedPattern;
     const allPatterns = !!localStorage.getItem("patterns")
-      ? this.aggregatePatterns()
+      ? this.props.PlayerStore.aggregatePatterns()
       : patterns;
-
+    console.log(allPatterns)
     return allPatterns[pattern][frame].map((row, idx) => {
       return <TileRow tiles={row} rowNum={idx} key={`tile-row-${idx}`} />
     });

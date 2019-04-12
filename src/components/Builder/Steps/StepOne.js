@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { inject, observer } from 'mobx-react';
-import FloorSizeSelection from '../../../Controls/FloorSizeSelection/FloorSizeSelection';
+import FloorSizeSelection from '../../Controls/FloorSizeSelection/FloorSizeSelection';
 
-import '../Steps.css';
+import './Steps.css';
 
 @inject('BuilderStore')
 @observer
