@@ -9,7 +9,6 @@ export default class PlayerStore {
   @observable frameInterval = null;
   @observable pulseCount = 0;
   @observable isColorInverted = false;
-  @observable isLastFrame = false;
   @observable isPulsingOn = false;
   @observable isPlaying = false;
   @observable showingPlayer = true;
@@ -45,14 +44,9 @@ export default class PlayerStore {
   @action increasePulseCount() {
     this.pulseCount = this.pulseCount + 1;
   }
-  
 
   @action setIsColorInverted(bool) {
     this.isColorInverted = bool;
-  }
-
-  @action setIsLastFrame(bool) {
-    this.isLastFrame = bool;
   }
 
   @action setIsPulsingOn(bool) {
