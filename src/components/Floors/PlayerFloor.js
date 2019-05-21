@@ -13,7 +13,7 @@ class PlayerFloor extends Component {
     const allPatterns = !!localStorage.getItem("patterns")
       ? this.props.PlayerStore.aggregatePatterns()
       : patterns;
-    console.log(allPatterns)
+
     return allPatterns[pattern][frame].map((row, idx) => {
       return <TileRow tiles={row} rowNum={idx} key={`tile-row-${idx}`} />
     });

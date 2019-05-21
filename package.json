@@ -16,6 +16,7 @@
   "author": "github.com/jonopens",
   "license": "ISC",
   "dependencies": {
+    "@babel/polyfill": "^7.4.4",
     "mobx": "^5.8.0",
     "mobx-react": "^5.4.3",
     "react": "^16.6.3",
