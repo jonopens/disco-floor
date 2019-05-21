@@ -1,4 +1,4 @@
-.control-block__item--pattern-select {
+.pattern-select {
   display: flex;
   flex-direction: column;
 }
@@ -8,6 +8,8 @@
 }
 
 .pattern-select__selection {
+  -webkit-appearance: none;
+  padding-left: 15px;
   height: 40px;
   width: 170px;
   font-size: 15px;

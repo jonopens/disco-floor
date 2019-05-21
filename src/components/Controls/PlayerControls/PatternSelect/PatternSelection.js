@@ -19,8 +19,8 @@ export default class PatternSelection extends Component {
     });
 
     return(
-      <div className="control-block__item control-block__item--pattern-select">
-        <label className="pattern-select__label">CHOOSE A PARTY</label>
+      <div className="control-block__item pattern-select">
+        <label className="pattern-select__label">CHOOSE A PATTERN</label>
         <select
           className="pattern-select__selection"
           onChange={this.handleSelectionChange}
