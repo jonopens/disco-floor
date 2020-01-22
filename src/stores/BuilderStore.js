@@ -3,7 +3,6 @@ import { observable, action, computed } from 'mobx';
 export default class BuilderStore {
 
   @observable patternName = '';
-  @observable isFirstBuilderView = true;
   @observable builderStep = 1; // values from 1 to 3
   @observable floorSize = 9; // default;
   @observable currentFrame = 0;
@@ -22,10 +21,6 @@ export default class BuilderStore {
   
   @action setPatternName(name) {
     this.patternName = name;
-  }
-
-  @action setFirstBuilderView() {
-    this.isFirstBuilderView = false;
   }
 
   @action setBuilderStep(step) {
@@ -59,7 +54,7 @@ export default class BuilderStore {
   }
 
   @action removeFrameFromPattern() {
-    this.workingPattern = this.workingPattern.splice(this.currentFrame, 1);
+    this.workingPattern.splice(this.currentFrame, 1);
     if (this.currentFrame + 1 === this.totalWorkingFrames) {
       this.currentFrame -= 1;
     }
