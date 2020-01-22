@@ -23,7 +23,7 @@ class FrameButton extends Component {
         this.props.BuilderStore.addFrameToPattern();
         break;
       case "remove":
-        if (this.props.BuilderStore.totalWorkingFrame > 1) {
+        if (this.props.BuilderStore.totalWorkingFrames > 1) {
           this.props.BuilderStore.removeFrameFromPattern();
         }
         break;
