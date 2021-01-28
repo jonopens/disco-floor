@@ -11,8 +11,8 @@
   -webkit-appearance: none;
   padding-left: 15px;
   height: 40px;
-  width: 170px;
   font-size: 15px;
+  border-radius: 5px;
   color: white;
   background-color: black;
 }
